@@ -1,0 +1,5123 @@
+{
+  "name": "MyCluster",
+  "id": "f87cb841-4ebf-447e-9478-48d2532b976a",
+  "data": [
+    {
+      "date": "2022-10-18T18:52:14.818Z",
+      "readIops": 97532.9196,
+      "writeIops": 464.5457,
+      "readThroughput": 537368719.6922,
+      "writeThroughput": 374302842.673
+    },
+    {
+      "date": "2022-10-19T18:52:14.818Z",
+      "readIops": 23022.661,
+      "writeIops": 889.7644,
+      "readThroughput": 969125109.9874,
+      "writeThroughput": 641587180.4144
+    },
+    {
+      "date": "2022-10-20T18:52:14.818Z",
+      "readIops": 53439.0833,
+      "writeIops": 748.0972,
+      "readThroughput": 772436062.0638,
+      "writeThroughput": 878253603.7914
+    },
+    {
+      "date": "2022-10-21T18:52:14.818Z",
+      "readIops": 10075.4603,
+      "writeIops": 403.1042,
+      "readThroughput": 55974904.3468,
+      "writeThroughput": 633195659.525
+    },
+    {
+      "date": "2022-10-22T18:52:14.818Z",
+      "readIops": 37523.5611,
+      "writeIops": 623.1195,
+      "readThroughput": 1016201164.2004,
+      "writeThroughput": 200978021.2099
+    },
+    {
+      "date": "2022-10-23T18:52:14.818Z",
+      "readIops": 36728.1438,
+      "writeIops": 670.9033,
+      "readThroughput": 606443133.6908,
+      "writeThroughput": 287537449.2867
+    },
+    {
+      "date": "2022-10-24T18:52:14.818Z",
+      "readIops": 21678.0908,
+      "writeIops": 995.6322,
+      "readThroughput": 941304222.9809,
+      "writeThroughput": 424840105.1893
+    },
+    {
+      "date": "2022-10-25T18:52:14.818Z",
+      "readIops": 35996.032,
+      "writeIops": 645.7623,
+      "readThroughput": 94006792.7594,
+      "writeThroughput": 267081051.0286
+    },
+    {
+      "date": "2022-10-26T18:52:14.818Z",
+      "readIops": 16890.4901,
+      "writeIops": 973.4482,
+      "readThroughput": 675726369.6764,
+      "writeThroughput": 57656435.4884
+    },
+    {
+      "date": "2022-10-27T18:52:14.818Z",
+      "readIops": 84534.3342,
+      "writeIops": 817.7979,
+      "readThroughput": 600166031.8087,
+      "writeThroughput": 993111717.8156
+    },
+    {
+      "date": "2022-10-28T18:52:14.818Z",
+      "readIops": 50008.3347,
+      "writeIops": 959.6223,
+      "readThroughput": 864604525.9689,
+      "writeThroughput": 690917820.7857
+    },
+    {
+      "date": "2022-10-29T18:52:14.818Z",
+      "readIops": 56884.1439,
+      "writeIops": 235.0701,
+      "readThroughput": 93118081.7897,
+      "writeThroughput": 231762982.7397
+    },
+    {
+      "date": "2022-10-30T18:52:14.818Z",
+      "readIops": 70566.678,
+      "writeIops": 507.2515,
+      "readThroughput": 240484494.2674,
+      "writeThroughput": 3047202.2132
+    },
+    {
+      "date": "2022-10-31T18:52:14.818Z",
+      "readIops": 40782.2906,
+      "writeIops": 643.1223,
+      "readThroughput": 1007466975.0191,
+      "writeThroughput": 1001570568.0208
+    },
+    {
+      "date": "2022-11-01T18:52:14.818Z",
+      "readIops": 56981.9015,
+      "writeIops": 374.335,
+      "readThroughput": 866127305.3875,
+      "writeThroughput": 626519350.0097
+    },
+    {
+      "date": "2022-11-02T18:52:14.818Z",
+      "readIops": 50834.628,
+      "writeIops": 103.2055,
+      "readThroughput": 6941620.0906,
+      "writeThroughput": 1037781022.3316
+    },
+    {
+      "date": "2022-11-03T18:52:14.818Z",
+      "readIops": 51694.3501,
+      "writeIops": 973.1754,
+      "readThroughput": 1060821702.3984,
+      "writeThroughput": 135948176.9074
+    },
+    {
+      "date": "2022-11-04T18:52:14.818Z",
+      "readIops": 65462.9997,
+      "writeIops": 648.6092,
+      "readThroughput": 218225866.9803,
+      "writeThroughput": 899620966.1266
+    },
+    {
+      "date": "2022-11-05T18:52:14.818Z",
+      "readIops": 50633.3162,
+      "writeIops": 550.8487,
+      "readThroughput": 39161176.1901,
+      "writeThroughput": 414079339.4014
+    },
+    {
+      "date": "2022-11-06T18:52:14.818Z",
+      "readIops": 33034.1369,
+      "writeIops": 193.52,
+      "readThroughput": 184935819.3255,
+      "writeThroughput": 955766108.0592
+    },
+    {
+      "date": "2022-11-07T18:52:14.818Z",
+      "readIops": 23891.3955,
+      "writeIops": 725.1133,
+      "readThroughput": 538542985.9904,
+      "writeThroughput": 429891346.3449
+    },
+    {
+      "date": "2022-11-08T18:52:14.818Z",
+      "readIops": 59196.3206,
+      "writeIops": 248.9283,
+      "readThroughput": 793375770.4073,
+      "writeThroughput": 655095061.529
+    },
+    {
+      "date": "2022-11-09T18:52:14.818Z",
+      "readIops": 83204.264,
+      "writeIops": 116.5768,
+      "readThroughput": 604939234.0009,
+      "writeThroughput": 50219039.8832
+    },
+    {
+      "date": "2022-11-10T18:52:14.818Z",
+      "readIops": 37016.2696,
+      "writeIops": 716.2362,
+      "readThroughput": 168248901.4786,
+      "writeThroughput": 314817978.2384
+    },
+    {
+      "date": "2022-11-11T18:52:14.818Z",
+      "readIops": 75709.0016,
+      "writeIops": 854.3876,
+      "readThroughput": 779584260.0951,
+      "writeThroughput": 557173090.9663
+    },
+    {
+      "date": "2022-11-12T18:52:14.818Z",
+      "readIops": 35184.5745,
+      "writeIops": 918.536,
+      "readThroughput": 878960890.0743,
+      "writeThroughput": 752352760.2085
+    },
+    {
+      "date": "2022-11-13T18:52:14.818Z",
+      "readIops": 86064.4836,
+      "writeIops": 392.9766,
+      "readThroughput": 840637568.7873,
+      "writeThroughput": 95056620.2185
+    },
+    {
+      "date": "2022-11-14T18:52:14.818Z",
+      "readIops": 13413.6135,
+      "writeIops": 350.1553,
+      "readThroughput": 833429162.0309,
+      "writeThroughput": 264214115.9869
+    },
+    {
+      "date": "2022-11-15T18:52:14.818Z",
+      "readIops": 28486.233,
+      "writeIops": 863.4938,
+      "readThroughput": 192553000.7166,
+      "writeThroughput": 979754217.2113
+    },
+    {
+      "date": "2022-11-16T18:52:14.818Z",
+      "readIops": 38979.3542,
+      "writeIops": 625.6563,
+      "readThroughput": 571859207.033,
+      "writeThroughput": 576226725.3489
+    },
+    {
+      "date": "2022-11-17T18:52:14.818Z",
+      "readIops": 22909.6881,
+      "writeIops": 436.1683,
+      "readThroughput": 1033956461.7256,
+      "writeThroughput": 762398136.0565
+    },
+    {
+      "date": "2022-11-18T18:52:14.818Z",
+      "readIops": 14709.6834,
+      "writeIops": 993.6236,
+      "readThroughput": 583383440.3665,
+      "writeThroughput": 14603821.2162
+    },
+    {
+      "date": "2022-11-19T18:52:14.818Z",
+      "readIops": 57909.0836,
+      "writeIops": 141.5972,
+      "readThroughput": 920809150.7578,
+      "writeThroughput": 494752763.4595
+    },
+    {
+      "date": "2022-11-20T18:52:14.818Z",
+      "readIops": 81835.8915,
+      "writeIops": 356.3362,
+      "readThroughput": 488229287.2727,
+      "writeThroughput": 965544533.4494
+    },
+    {
+      "date": "2022-11-21T18:52:14.818Z",
+      "readIops": 45911.9995,
+      "writeIops": 752.6873,
+      "readThroughput": 831169780.9441,
+      "writeThroughput": 490250034.6368
+    },
+    {
+      "date": "2022-11-22T18:52:14.818Z",
+      "readIops": 28201.6904,
+      "writeIops": 717.6298,
+      "readThroughput": 245384681.6677,
+      "writeThroughput": 1006901235.3059
+    },
+    {
+      "date": "2022-11-23T18:52:14.818Z",
+      "readIops": 65857.3067,
+      "writeIops": 950.9103,
+      "readThroughput": 1056087645.3847,
+      "writeThroughput": 670450252.2846
+    },
+    {
+      "date": "2022-11-24T18:52:14.818Z",
+      "readIops": 37080.0882,
+      "writeIops": 744.6483,
+      "readThroughput": 1027733300.5168,
+      "writeThroughput": 518151087.2483
+    },
+    {
+      "date": "2022-11-25T18:52:14.818Z",
+      "readIops": 98349.9529,
+      "writeIops": 954.6284,
+      "readThroughput": 870484518.5828,
+      "writeThroughput": 449734783.3539
+    },
+    {
+      "date": "2022-11-26T18:52:14.818Z",
+      "readIops": 94904.3965,
+      "writeIops": 410.7283,
+      "readThroughput": 411316062.0969,
+      "writeThroughput": 796169293.2688
+    },
+    {
+      "date": "2022-11-27T18:52:14.818Z",
+      "readIops": 34829.0543,
+      "writeIops": 292.2585,
+      "readThroughput": 898715514.984,
+      "writeThroughput": 73211827.0593
+    },
+    {
+      "date": "2022-11-28T18:52:14.818Z",
+      "readIops": 55288.2547,
+      "writeIops": 632.1499,
+      "readThroughput": 190888423.1621,
+      "writeThroughput": 496662541.1655
+    },
+    {
+      "date": "2022-11-29T18:52:14.818Z",
+      "readIops": 35049.8378,
+      "writeIops": 628.5297,
+      "readThroughput": 595174263.4211,
+      "writeThroughput": 479443692.2104
+    },
+    {
+      "date": "2022-11-30T18:52:14.818Z",
+      "readIops": 59264.5241,
+      "writeIops": 934.6531,
+      "readThroughput": 848638637.0208,
+      "writeThroughput": 785548001.8079
+    },
+    {
+      "date": "2022-12-01T18:52:14.818Z",
+      "readIops": 98716.6333,
+      "writeIops": 772.6939,
+      "readThroughput": 717330120.583,
+      "writeThroughput": 589564314.7001
+    },
+    {
+      "date": "2022-12-02T18:52:14.818Z",
+      "readIops": 67571.5728,
+      "writeIops": 171.1317,
+      "readThroughput": 540165144.9569,
+      "writeThroughput": 668132617.3038
+    },
+    {
+      "date": "2022-12-03T18:52:14.818Z",
+      "readIops": 65591.2871,
+      "writeIops": 202.4135,
+      "readThroughput": 694228221.8407,
+      "writeThroughput": 243845848.9411
+    },
+    {
+      "date": "2022-12-04T18:52:14.818Z",
+      "readIops": 52322.4999,
+      "writeIops": 805.4441,
+      "readThroughput": 505189763.0449,
+      "writeThroughput": 99072245.2436
+    },
+    {
+      "date": "2022-12-05T18:52:14.818Z",
+      "readIops": 75968.5407,
+      "writeIops": 164.975,
+      "readThroughput": 332609846.3962,
+      "writeThroughput": 661188714.3467
+    },
+    {
+      "date": "2022-12-06T18:52:14.818Z",
+      "readIops": 25896.4121,
+      "writeIops": 769.4529,
+      "readThroughput": 982590740.4054,
+      "writeThroughput": 414289552.7552
+    },
+    {
+      "date": "2022-12-07T18:52:14.818Z",
+      "readIops": 28997.9979,
+      "writeIops": 562.4629,
+      "readThroughput": 55037991.8705,
+      "writeThroughput": 305906495.7925
+    },
+    {
+      "date": "2022-12-08T18:52:14.818Z",
+      "readIops": 12010.1574,
+      "writeIops": 998.8305,
+      "readThroughput": 306760885.3581,
+      "writeThroughput": 477019165.1241
+    },
+    {
+      "date": "2022-12-09T18:52:14.818Z",
+      "readIops": 76088.1658,
+      "writeIops": 629.5178,
+      "readThroughput": 78589141.0496,
+      "writeThroughput": 942513840.3173
+    },
+    {
+      "date": "2022-12-10T18:52:14.818Z",
+      "readIops": 44195.6928,
+      "writeIops": 299.4825,
+      "readThroughput": 297827571.7331,
+      "writeThroughput": 918276839.7807
+    },
+    {
+      "date": "2022-12-11T18:52:14.818Z",
+      "readIops": 71800.4474,
+      "writeIops": 202.402,
+      "readThroughput": 13527500.0206,
+      "writeThroughput": 242888876.5618
+    },
+    {
+      "date": "2022-12-12T18:52:14.818Z",
+      "readIops": 11978.4751,
+      "writeIops": 320.9902,
+      "readThroughput": 840009305.3018,
+      "writeThroughput": 501095907.5264
+    },
+    {
+      "date": "2022-12-13T18:52:14.818Z",
+      "readIops": 81355.9808,
+      "writeIops": 968.815,
+      "readThroughput": 723023384.0027,
+      "writeThroughput": 931825482.9185
+    },
+    {
+      "date": "2022-12-14T18:52:14.818Z",
+      "readIops": 52352.3061,
+      "writeIops": 714.798,
+      "readThroughput": 130836328.1792,
+      "writeThroughput": 248610264.4282
+    },
+    {
+      "date": "2022-12-15T18:52:14.818Z",
+      "readIops": 86880.5968,
+      "writeIops": 791.7845,
+      "readThroughput": 970505695.878,
+      "writeThroughput": 780848996.8329
+    },
+    {
+      "date": "2022-12-16T18:52:14.818Z",
+      "readIops": 62711.7885,
+      "writeIops": 740.4145,
+      "readThroughput": 142950904.7173,
+      "writeThroughput": 1036401494.1497
+    },
+    {
+      "date": "2022-12-17T18:52:14.818Z",
+      "readIops": 67440.3264,
+      "writeIops": 400.7747,
+      "readThroughput": 256780145.2763,
+      "writeThroughput": 746895013.7291
+    },
+    {
+      "date": "2022-12-18T18:52:14.818Z",
+      "readIops": 33266.1333,
+      "writeIops": 827.2411,
+      "readThroughput": 704285046.5516,
+      "writeThroughput": 881445653.7425
+    },
+    {
+      "date": "2022-12-19T18:52:14.818Z",
+      "readIops": 38775.3406,
+      "writeIops": 463.3894,
+      "readThroughput": 35804156.9161,
+      "writeThroughput": 201402096.0242
+    },
+    {
+      "date": "2022-12-20T18:52:14.818Z",
+      "readIops": 66117.2377,
+      "writeIops": 496.0354,
+      "readThroughput": 838856821.1738,
+      "writeThroughput": 472788897.4941
+    },
+    {
+      "date": "2022-12-21T18:52:14.818Z",
+      "readIops": 92169.7222,
+      "writeIops": 313.08,
+      "readThroughput": 139966196.8845,
+      "writeThroughput": 656177743.6815
+    },
+    {
+      "date": "2022-12-22T18:52:14.818Z",
+      "readIops": 36467.0511,
+      "writeIops": 315.0654,
+      "readThroughput": 656432004.0376,
+      "writeThroughput": 621726538.4488
+    },
+    {
+      "date": "2022-12-23T18:52:14.818Z",
+      "readIops": 49985.6582,
+      "writeIops": 465.9727,
+      "readThroughput": 629110510.7919,
+      "writeThroughput": 963391094.3006
+    },
+    {
+      "date": "2022-12-24T18:52:14.818Z",
+      "readIops": 99224.3433,
+      "writeIops": 305.136,
+      "readThroughput": 1042575038.2008,
+      "writeThroughput": 106391816.4293
+    },
+    {
+      "date": "2022-12-25T18:52:14.818Z",
+      "readIops": 19947.2617,
+      "writeIops": 614.9198,
+      "readThroughput": 115565532.7439,
+      "writeThroughput": 739181532.6382
+    },
+    {
+      "date": "2022-12-26T18:52:14.818Z",
+      "readIops": 99858.3936,
+      "writeIops": 498.1237,
+      "readThroughput": 449933894.2733,
+      "writeThroughput": 116921745.4083
+    },
+    {
+      "date": "2022-12-27T18:52:14.818Z",
+      "readIops": 78414.6193,
+      "writeIops": 384.5265,
+      "readThroughput": 466537538.1664,
+      "writeThroughput": 1027437074.6799
+    },
+    {
+      "date": "2022-12-28T18:52:14.818Z",
+      "readIops": 97836.5987,
+      "writeIops": 858.5364,
+      "readThroughput": 311781897.1085,
+      "writeThroughput": 458194371.7927
+    },
+    {
+      "date": "2022-12-29T18:52:14.818Z",
+      "readIops": 15254.7389,
+      "writeIops": 908.3873,
+      "readThroughput": 835773561.8506,
+      "writeThroughput": 774851946.7935
+    },
+    {
+      "date": "2022-12-30T18:52:14.818Z",
+      "readIops": 40861.2733,
+      "writeIops": 995.0374,
+      "readThroughput": 608289240.632,
+      "writeThroughput": 491033657.4292
+    },
+    {
+      "date": "2022-12-31T18:52:14.818Z",
+      "readIops": 60385.6334,
+      "writeIops": 619.6411,
+      "readThroughput": 1056932612.7037,
+      "writeThroughput": 498870580.0835
+    },
+    {
+      "date": "2023-01-01T18:52:14.818Z",
+      "readIops": 64724.339,
+      "writeIops": 188.447,
+      "readThroughput": 566145894.8492,
+      "writeThroughput": 8483142.8401
+    },
+    {
+      "date": "2023-01-02T18:52:14.818Z",
+      "readIops": 28646.7353,
+      "writeIops": 262.2071,
+      "readThroughput": 286600990.6879,
+      "writeThroughput": 794791798.2859
+    },
+    {
+      "date": "2023-01-03T18:52:14.818Z",
+      "readIops": 84210.8995,
+      "writeIops": 169.3546,
+      "readThroughput": 26929737.7335,
+      "writeThroughput": 94594855.5563
+    },
+    {
+      "date": "2023-01-04T18:52:14.818Z",
+      "readIops": 80857.0941,
+      "writeIops": 195.1423,
+      "readThroughput": 113706232.4199,
+      "writeThroughput": 667431507.6972
+    },
+    {
+      "date": "2023-01-05T18:52:14.818Z",
+      "readIops": 56946.1036,
+      "writeIops": 272.203,
+      "readThroughput": 913905487.5769,
+      "writeThroughput": 833578621.632
+    },
+    {
+      "date": "2023-01-06T18:52:14.818Z",
+      "readIops": 84441.1934,
+      "writeIops": 631.2929,
+      "readThroughput": 802742657.0724,
+      "writeThroughput": 82459087.3544
+    },
+    {
+      "date": "2023-01-07T18:52:14.818Z",
+      "readIops": 90983.5644,
+      "writeIops": 194.6296,
+      "readThroughput": 1010187203.755,
+      "writeThroughput": 515551453.2355
+    },
+    {
+      "date": "2023-01-08T18:52:14.818Z",
+      "readIops": 64333.3478,
+      "writeIops": 332.1619,
+      "readThroughput": 736491645.849,
+      "writeThroughput": 541561010.2822
+    },
+    {
+      "date": "2023-01-09T18:52:14.818Z",
+      "readIops": 54567.1807,
+      "writeIops": 261.9985,
+      "readThroughput": 994330411.5371,
+      "writeThroughput": 958618242.4495
+    },
+    {
+      "date": "2023-01-10T18:52:14.818Z",
+      "readIops": 57470.0308,
+      "writeIops": 949.4439,
+      "readThroughput": 581661907.9315,
+      "writeThroughput": 56511621.305
+    },
+    {
+      "date": "2023-01-11T18:52:14.818Z",
+      "readIops": 95799.8479,
+      "writeIops": 381.4757,
+      "readThroughput": 604443738.1248,
+      "writeThroughput": 1055019824.5971
+    },
+    {
+      "date": "2023-01-12T18:52:14.818Z",
+      "readIops": 44876.5496,
+      "writeIops": 573.5035,
+      "readThroughput": 913056568.1775,
+      "writeThroughput": 985015088.4232
+    },
+    {
+      "date": "2023-01-13T18:52:14.818Z",
+      "readIops": 49607.6684,
+      "writeIops": 487.8221,
+      "readThroughput": 942972412.6742,
+      "writeThroughput": 736891986.5296
+    },
+    {
+      "date": "2023-01-14T18:52:14.818Z",
+      "readIops": 48982.1865,
+      "writeIops": 208.9643,
+      "readThroughput": 185382781.4677,
+      "writeThroughput": 443667334.8211
+    },
+    {
+      "date": "2023-01-15T18:52:14.818Z",
+      "readIops": 48330.9036,
+      "writeIops": 575.7134,
+      "readThroughput": 664595392.8822,
+      "writeThroughput": 596439059.2795
+    },
+    {
+      "date": "2023-01-16T18:52:14.818Z",
+      "readIops": 76299.2788,
+      "writeIops": 219.9358,
+      "readThroughput": 803246099.234,
+      "writeThroughput": 899652812.8026
+    },
+    {
+      "date": "2023-01-17T18:52:14.818Z",
+      "readIops": 60751.5678,
+      "writeIops": 297.6002,
+      "readThroughput": 915444048.9011,
+      "writeThroughput": 311922730.8981
+    },
+    {
+      "date": "2023-01-18T18:52:14.818Z",
+      "readIops": 81212.9214,
+      "writeIops": 773.1474,
+      "readThroughput": 327295590.1701,
+      "writeThroughput": 970044014.9065
+    },
+    {
+      "date": "2023-01-19T18:52:14.818Z",
+      "readIops": 64905.089,
+      "writeIops": 741.1914,
+      "readThroughput": 529168050.0411,
+      "writeThroughput": 517261676.731
+    },
+    {
+      "date": "2023-01-20T18:52:14.818Z",
+      "readIops": 83896.0368,
+      "writeIops": 343.5765,
+      "readThroughput": 565176558.4194,
+      "writeThroughput": 124845688.1578
+    },
+    {
+      "date": "2023-01-21T18:52:14.818Z",
+      "readIops": 83256.8176,
+      "writeIops": 530.5693,
+      "readThroughput": 839147793.6158,
+      "writeThroughput": 97150070.0693
+    },
+    {
+      "date": "2023-01-22T18:52:14.818Z",
+      "readIops": 52567.5325,
+      "writeIops": 164.662,
+      "readThroughput": 669787900.2407,
+      "writeThroughput": 1033593445.114
+    },
+    {
+      "date": "2023-01-23T18:52:14.818Z",
+      "readIops": 92627.3746,
+      "writeIops": 761.0721,
+      "readThroughput": 979602361.942,
+      "writeThroughput": 534950295.3566
+    },
+    {
+      "date": "2023-01-24T18:52:14.818Z",
+      "readIops": 98454.1403,
+      "writeIops": 750.7127,
+      "readThroughput": 843519138.1271,
+      "writeThroughput": 536221065.0323
+    },
+    {
+      "date": "2023-01-25T18:52:14.818Z",
+      "readIops": 14120.2994,
+      "writeIops": 974.6936,
+      "readThroughput": 752640722.936,
+      "writeThroughput": 1050693487.5795
+    },
+    {
+      "date": "2023-01-26T18:52:14.818Z",
+      "readIops": 69582.461,
+      "writeIops": 539.4928,
+      "readThroughput": 393754061.6528,
+      "writeThroughput": 753764219.521
+    },
+    {
+      "date": "2023-01-27T18:52:14.818Z",
+      "readIops": 94674.8079,
+      "writeIops": 769.9852,
+      "readThroughput": 972800437.9987,
+      "writeThroughput": 635020554.0426
+    },
+    {
+      "date": "2023-01-28T18:52:14.818Z",
+      "readIops": 23911.9352,
+      "writeIops": 293.3808,
+      "readThroughput": 585625631.5739,
+      "writeThroughput": 868732030.0743
+    },
+    {
+      "date": "2023-01-29T18:52:14.818Z",
+      "readIops": 19575.7691,
+      "writeIops": 100.6523,
+      "readThroughput": 17612286.786,
+      "writeThroughput": 920097923.0158
+    },
+    {
+      "date": "2023-01-30T18:52:14.818Z",
+      "readIops": 47123.3039,
+      "writeIops": 387.9434,
+      "readThroughput": 725071383.51,
+      "writeThroughput": 114158342.2653
+    },
+    {
+      "date": "2023-01-31T18:52:14.818Z",
+      "readIops": 20292.8233,
+      "writeIops": 889.6608,
+      "readThroughput": 23660389.7051,
+      "writeThroughput": 647699670.5756
+    },
+    {
+      "date": "2023-02-01T18:52:14.818Z",
+      "readIops": 42525.6334,
+      "writeIops": 312.8351,
+      "readThroughput": 644464790.8204,
+      "writeThroughput": 559738490.8995
+    },
+    {
+      "date": "2023-02-02T18:52:14.818Z",
+      "readIops": 52824.958,
+      "writeIops": 290.4485,
+      "readThroughput": 143437230.2457,
+      "writeThroughput": 561728945.7928
+    },
+    {
+      "date": "2023-02-03T18:52:14.818Z",
+      "readIops": 65254.109,
+      "writeIops": 851.893,
+      "readThroughput": 187238143.7708,
+      "writeThroughput": 626281825.3977
+    },
+    {
+      "date": "2023-02-04T18:52:14.818Z",
+      "readIops": 97894.8121,
+      "writeIops": 997.0547,
+      "readThroughput": 81025470.0463,
+      "writeThroughput": 537613621.9606
+    },
+    {
+      "date": "2023-02-05T18:52:14.818Z",
+      "readIops": 78334.0738,
+      "writeIops": 268.2266,
+      "readThroughput": 641328343.6693,
+      "writeThroughput": 346853160.3122
+    },
+    {
+      "date": "2023-02-06T18:52:14.818Z",
+      "readIops": 23401.4312,
+      "writeIops": 905.8175,
+      "readThroughput": 675848749.1091,
+      "writeThroughput": 462995932.114
+    },
+    {
+      "date": "2023-02-07T18:52:14.818Z",
+      "readIops": 44203.1927,
+      "writeIops": 880.5392,
+      "readThroughput": 571817594.7591,
+      "writeThroughput": 515397419.3043
+    },
+    {
+      "date": "2023-02-08T18:52:14.818Z",
+      "readIops": 60683.4119,
+      "writeIops": 457.1067,
+      "readThroughput": 507240803.3988,
+      "writeThroughput": 493460318.2867
+    },
+    {
+      "date": "2023-02-09T18:52:14.818Z",
+      "readIops": 65642.7862,
+      "writeIops": 670.1988,
+      "readThroughput": 700297394.0545,
+      "writeThroughput": 739319961.873
+    },
+    {
+      "date": "2023-02-10T18:52:14.818Z",
+      "readIops": 49966.1632,
+      "writeIops": 632.6767,
+      "readThroughput": 278893512.4512,
+      "writeThroughput": 684427311.3319
+    },
+    {
+      "date": "2023-02-11T18:52:14.818Z",
+      "readIops": 64105.0532,
+      "writeIops": 847.7311,
+      "readThroughput": 629252502.1414,
+      "writeThroughput": 998520350.9922
+    },
+    {
+      "date": "2023-02-12T18:52:14.818Z",
+      "readIops": 67025.4894,
+      "writeIops": 421.1794,
+      "readThroughput": 1036731691.3907,
+      "writeThroughput": 552893321.0618
+    },
+    {
+      "date": "2023-02-13T18:52:14.818Z",
+      "readIops": 16543.4678,
+      "writeIops": 140.0283,
+      "readThroughput": 581849375.2866,
+      "writeThroughput": 109171045.9197
+    },
+    {
+      "date": "2023-02-14T18:52:14.818Z",
+      "readIops": 27432.917,
+      "writeIops": 609.0796,
+      "readThroughput": 221653623.5729,
+      "writeThroughput": 595606877.5834
+    },
+    {
+      "date": "2023-02-15T18:52:14.818Z",
+      "readIops": 65024.4252,
+      "writeIops": 383.4892,
+      "readThroughput": 90029846.8937,
+      "writeThroughput": 110130502.8639
+    },
+    {
+      "date": "2023-02-16T18:52:14.818Z",
+      "readIops": 27221.5977,
+      "writeIops": 367.0579,
+      "readThroughput": 465027151.8637,
+      "writeThroughput": 447257853.6484
+    },
+    {
+      "date": "2023-02-17T18:52:14.818Z",
+      "readIops": 16494.4551,
+      "writeIops": 610.8645,
+      "readThroughput": 803935136.3166,
+      "writeThroughput": 69030109.5014
+    },
+    {
+      "date": "2023-02-18T18:52:14.818Z",
+      "readIops": 84700.2129,
+      "writeIops": 849.3651,
+      "readThroughput": 597279630.5618,
+      "writeThroughput": 422981132.8064
+    },
+    {
+      "date": "2023-02-19T18:52:14.818Z",
+      "readIops": 23090.9589,
+      "writeIops": 686.7813,
+      "readThroughput": 105468776.9888,
+      "writeThroughput": 645241900.3036
+    },
+    {
+      "date": "2023-02-20T18:52:14.818Z",
+      "readIops": 58670.3674,
+      "writeIops": 148.9488,
+      "readThroughput": 217099659.3444,
+      "writeThroughput": 1034045579.1481
+    },
+    {
+      "date": "2023-02-21T18:52:14.818Z",
+      "readIops": 49860.8307,
+      "writeIops": 157.7089,
+      "readThroughput": 1068733141.6578,
+      "writeThroughput": 702956422.8828
+    },
+    {
+      "date": "2023-02-22T18:52:14.818Z",
+      "readIops": 74876.0688,
+      "writeIops": 892.4604,
+      "readThroughput": 40732673.3616,
+      "writeThroughput": 970025195.618
+    },
+    {
+      "date": "2023-02-23T18:52:14.818Z",
+      "readIops": 32587.5807,
+      "writeIops": 287.0391,
+      "readThroughput": 133378358.3016,
+      "writeThroughput": 909810454.2257
+    },
+    {
+      "date": "2023-02-24T18:52:14.818Z",
+      "readIops": 65517.4603,
+      "writeIops": 540.8688,
+      "readThroughput": 555943840.3326,
+      "writeThroughput": 805843741.1361
+    },
+    {
+      "date": "2023-02-25T18:52:14.818Z",
+      "readIops": 28503.7386,
+      "writeIops": 420.5474,
+      "readThroughput": 643429910.431,
+      "writeThroughput": 255124236.2322
+    },
+    {
+      "date": "2023-02-26T18:52:14.818Z",
+      "readIops": 47289.3659,
+      "writeIops": 967.1134,
+      "readThroughput": 87748080.5869,
+      "writeThroughput": 478782464.0472
+    },
+    {
+      "date": "2023-02-27T18:52:14.818Z",
+      "readIops": 10652.5643,
+      "writeIops": 508.3185,
+      "readThroughput": 299310076.1548,
+      "writeThroughput": 354173154.081
+    },
+    {
+      "date": "2023-02-28T18:52:14.818Z",
+      "readIops": 70576.1537,
+      "writeIops": 386.8725,
+      "readThroughput": 196342830.4852,
+      "writeThroughput": 599745213.4315
+    },
+    {
+      "date": "2023-03-01T18:52:14.818Z",
+      "readIops": 75642.6679,
+      "writeIops": 637.4767,
+      "readThroughput": 976874818.637,
+      "writeThroughput": 198089586.8899
+    },
+    {
+      "date": "2023-03-02T18:52:14.818Z",
+      "readIops": 73697.0938,
+      "writeIops": 489.6016,
+      "readThroughput": 275374406.8119,
+      "writeThroughput": 410629664.0579
+    },
+    {
+      "date": "2023-03-03T18:52:14.818Z",
+      "readIops": 31667.2719,
+      "writeIops": 546.8703,
+      "readThroughput": 286766450.23,
+      "writeThroughput": 1042929792.3046
+    },
+    {
+      "date": "2023-03-04T18:52:14.818Z",
+      "readIops": 99135.6341,
+      "writeIops": 742.0103,
+      "readThroughput": 1004077973.5974,
+      "writeThroughput": 53110904.057
+    },
+    {
+      "date": "2023-03-05T18:52:14.818Z",
+      "readIops": 65367.4083,
+      "writeIops": 846.7103,
+      "readThroughput": 248264140.5479,
+      "writeThroughput": 878500698.0893
+    },
+    {
+      "date": "2023-03-06T18:52:14.818Z",
+      "readIops": 94383.1657,
+      "writeIops": 614.2527,
+      "readThroughput": 469532103.5059,
+      "writeThroughput": 662341689.141
+    },
+    {
+      "date": "2023-03-07T18:52:14.818Z",
+      "readIops": 16501.963,
+      "writeIops": 787.5282,
+      "readThroughput": 717632017.7628,
+      "writeThroughput": 767985940.0936
+    },
+    {
+      "date": "2023-03-08T18:52:14.818Z",
+      "readIops": 95589.8469,
+      "writeIops": 347.6632,
+      "readThroughput": 1056291897.0325,
+      "writeThroughput": 1010531555.8659
+    },
+    {
+      "date": "2023-03-09T18:52:14.818Z",
+      "readIops": 76634.4481,
+      "writeIops": 242.8692,
+      "readThroughput": 141853779.3362,
+      "writeThroughput": 107995297.5117
+    },
+    {
+      "date": "2023-03-10T18:52:14.818Z",
+      "readIops": 44250.3537,
+      "writeIops": 745.9108,
+      "readThroughput": 374841186.6459,
+      "writeThroughput": 702336007.6455
+    },
+    {
+      "date": "2023-03-11T18:52:14.818Z",
+      "readIops": 62889.0976,
+      "writeIops": 885.4431,
+      "readThroughput": 117883194.189,
+      "writeThroughput": 632189264.5792
+    },
+    {
+      "date": "2023-03-12T18:52:14.818Z",
+      "readIops": 58858.2075,
+      "writeIops": 728.8184,
+      "readThroughput": 266964357.407,
+      "writeThroughput": 668229900.4315
+    },
+    {
+      "date": "2023-03-13T18:52:14.818Z",
+      "readIops": 82410.3997,
+      "writeIops": 713.9124,
+      "readThroughput": 402401822.9133,
+      "writeThroughput": 1028472750.3088
+    },
+    {
+      "date": "2023-03-14T18:52:14.818Z",
+      "readIops": 94985.3566,
+      "writeIops": 866.0366,
+      "readThroughput": 367613153.7524,
+      "writeThroughput": 452634179.5897
+    },
+    {
+      "date": "2023-03-15T18:52:14.818Z",
+      "readIops": 41652.8387,
+      "writeIops": 769.2115,
+      "readThroughput": 812579212.7763,
+      "writeThroughput": 142783142.9244
+    },
+    {
+      "date": "2023-03-16T18:52:14.818Z",
+      "readIops": 44679.2299,
+      "writeIops": 227.6511,
+      "readThroughput": 252952396.3248,
+      "writeThroughput": 910105085.3997
+    },
+    {
+      "date": "2023-03-17T18:52:14.818Z",
+      "readIops": 74176.9932,
+      "writeIops": 433.9902,
+      "readThroughput": 254424568.1709,
+      "writeThroughput": 394497062.9719
+    },
+    {
+      "date": "2023-03-18T18:52:14.818Z",
+      "readIops": 18449.6716,
+      "writeIops": 237.1995,
+      "readThroughput": 325258371.3678,
+      "writeThroughput": 614321075.2057
+    },
+    {
+      "date": "2023-03-19T18:52:14.818Z",
+      "readIops": 61538.4563,
+      "writeIops": 483.7665,
+      "readThroughput": 856156266.1467,
+      "writeThroughput": 907640539.9145
+    },
+    {
+      "date": "2023-03-20T18:52:14.818Z",
+      "readIops": 60387.8241,
+      "writeIops": 946.249,
+      "readThroughput": 780584827.2988,
+      "writeThroughput": 171786893.5083
+    },
+    {
+      "date": "2023-03-21T18:52:14.818Z",
+      "readIops": 72333.0906,
+      "writeIops": 452.3425,
+      "readThroughput": 946990868.1099,
+      "writeThroughput": 298794820.7084
+    },
+    {
+      "date": "2023-03-22T18:52:14.818Z",
+      "readIops": 30238.0891,
+      "writeIops": 603.9524,
+      "readThroughput": 971957386.7003,
+      "writeThroughput": 366303938.8635
+    },
+    {
+      "date": "2023-03-23T18:52:14.818Z",
+      "readIops": 26435.5964,
+      "writeIops": 172.0824,
+      "readThroughput": 395601337.1283,
+      "writeThroughput": 261643969.0653
+    },
+    {
+      "date": "2023-03-24T18:52:14.818Z",
+      "readIops": 56465.5471,
+      "writeIops": 898.9796,
+      "readThroughput": 881832082.5094,
+      "writeThroughput": 779656541.499
+    },
+    {
+      "date": "2023-03-25T18:52:14.818Z",
+      "readIops": 30462.2756,
+      "writeIops": 220.2543,
+      "readThroughput": 559522617.6185,
+      "writeThroughput": 813959723.1354
+    },
+    {
+      "date": "2023-03-26T18:52:14.818Z",
+      "readIops": 73047.8759,
+      "writeIops": 713.0698,
+      "readThroughput": 274402728.7379,
+      "writeThroughput": 125267202.0667
+    },
+    {
+      "date": "2023-03-27T18:52:14.818Z",
+      "readIops": 30497.6978,
+      "writeIops": 392.6456,
+      "readThroughput": 137858081.4977,
+      "writeThroughput": 764771722.2252
+    },
+    {
+      "date": "2023-03-28T18:52:14.818Z",
+      "readIops": 28197.4003,
+      "writeIops": 467.3461,
+      "readThroughput": 185800074.9572,
+      "writeThroughput": 660958583.0982
+    },
+    {
+      "date": "2023-03-29T18:52:14.818Z",
+      "readIops": 95826.9041,
+      "writeIops": 404.5841,
+      "readThroughput": 139957564.587,
+      "writeThroughput": 194421107.5939
+    },
+    {
+      "date": "2023-03-30T18:52:14.818Z",
+      "readIops": 52343.1375,
+      "writeIops": 112.0671,
+      "readThroughput": 308034675.7401,
+      "writeThroughput": 580642359.0199
+    },
+    {
+      "date": "2023-03-31T18:52:14.818Z",
+      "readIops": 22663.3514,
+      "writeIops": 176.3143,
+      "readThroughput": 850610131.3318,
+      "writeThroughput": 895313584.0236
+    },
+    {
+      "date": "2023-04-01T18:52:14.818Z",
+      "readIops": 66492.0076,
+      "writeIops": 184.8542,
+      "readThroughput": 360607263.1439,
+      "writeThroughput": 1019391508.1918
+    },
+    {
+      "date": "2023-04-02T18:52:14.818Z",
+      "readIops": 29796.7798,
+      "writeIops": 711.8395,
+      "readThroughput": 289074261.9246,
+      "writeThroughput": 434632360.6514
+    },
+    {
+      "date": "2023-04-03T18:52:14.818Z",
+      "readIops": 17667.2792,
+      "writeIops": 524.7789,
+      "readThroughput": 847037355.4589,
+      "writeThroughput": 919321545.1519
+    },
+    {
+      "date": "2023-04-04T18:52:14.818Z",
+      "readIops": 34983.7935,
+      "writeIops": 452.48,
+      "readThroughput": 234043819.327,
+      "writeThroughput": 252995014.8985
+    },
+    {
+      "date": "2023-04-05T18:52:14.818Z",
+      "readIops": 87718.6567,
+      "writeIops": 487.268,
+      "readThroughput": 627556413.4318,
+      "writeThroughput": 538478396.8975
+    },
+    {
+      "date": "2023-04-06T18:52:14.818Z",
+      "readIops": 46755.7101,
+      "writeIops": 736.9585,
+      "readThroughput": 388097230.8193,
+      "writeThroughput": 42545353.2448
+    },
+    {
+      "date": "2023-04-07T18:52:14.818Z",
+      "readIops": 92534.7657,
+      "writeIops": 870.4468,
+      "readThroughput": 34223356.2955,
+      "writeThroughput": 953244939.9509
+    },
+    {
+      "date": "2023-04-08T18:52:14.818Z",
+      "readIops": 58097.0436,
+      "writeIops": 666.4597,
+      "readThroughput": 862974907.9646,
+      "writeThroughput": 675537379.1684
+    },
+    {
+      "date": "2023-04-09T18:52:14.818Z",
+      "readIops": 90488.0128,
+      "writeIops": 796.5997,
+      "readThroughput": 313821065.024,
+      "writeThroughput": 922854457.2259
+    },
+    {
+      "date": "2023-04-10T18:52:14.818Z",
+      "readIops": 31014.1064,
+      "writeIops": 905.1829,
+      "readThroughput": 63750188.2385,
+      "writeThroughput": 620289773.9423
+    },
+    {
+      "date": "2023-04-11T18:52:14.818Z",
+      "readIops": 22493.9307,
+      "writeIops": 751.1683,
+      "readThroughput": 200507547.7124,
+      "writeThroughput": 578502504.3868
+    },
+    {
+      "date": "2023-04-12T18:52:14.818Z",
+      "readIops": 61648.1553,
+      "writeIops": 555.5675,
+      "readThroughput": 1026150178.271,
+      "writeThroughput": 763602186.1026
+    },
+    {
+      "date": "2023-04-13T18:52:14.818Z",
+      "readIops": 61089.8464,
+      "writeIops": 621.4941,
+      "readThroughput": 489987558.0865,
+      "writeThroughput": 634927455.0246
+    },
+    {
+      "date": "2023-04-14T18:52:14.818Z",
+      "readIops": 29196.8471,
+      "writeIops": 164.3661,
+      "readThroughput": 771545194.4922,
+      "writeThroughput": 811216557.5359
+    },
+    {
+      "date": "2023-04-15T18:52:14.818Z",
+      "readIops": 91154.4777,
+      "writeIops": 107.2087,
+      "readThroughput": 604438522.5038,
+      "writeThroughput": 697924865.2813
+    },
+    {
+      "date": "2023-04-16T18:52:14.818Z",
+      "readIops": 89104.8438,
+      "writeIops": 115.2803,
+      "readThroughput": 66698549.8222,
+      "writeThroughput": 700668858.7929
+    },
+    {
+      "date": "2023-04-17T18:52:14.818Z",
+      "readIops": 60922.6417,
+      "writeIops": 783.633,
+      "readThroughput": 338749374.4776,
+      "writeThroughput": 513309835.3673
+    },
+    {
+      "date": "2023-04-18T18:52:14.818Z",
+      "readIops": 45679.5094,
+      "writeIops": 576.5499,
+      "readThroughput": 338062871.1199,
+      "writeThroughput": 718155537.8691
+    },
+    {
+      "date": "2023-04-19T18:52:14.818Z",
+      "readIops": 24648.9148,
+      "writeIops": 283.359,
+      "readThroughput": 741128852.5163,
+      "writeThroughput": 928251576.5419
+    },
+    {
+      "date": "2023-04-20T18:52:14.818Z",
+      "readIops": 69778.2183,
+      "writeIops": 124.2346,
+      "readThroughput": 459379627.0399,
+      "writeThroughput": 282754694.63
+    },
+    {
+      "date": "2023-04-21T18:52:14.818Z",
+      "readIops": 24394.547,
+      "writeIops": 397.6721,
+      "readThroughput": 654745728.3217,
+      "writeThroughput": 552074519.6054
+    },
+    {
+      "date": "2023-04-22T18:52:14.818Z",
+      "readIops": 53830.5825,
+      "writeIops": 156.8964,
+      "readThroughput": 384471469.2791,
+      "writeThroughput": 681198955.9538
+    },
+    {
+      "date": "2023-04-23T18:52:14.818Z",
+      "readIops": 47402.7564,
+      "writeIops": 630.6827,
+      "readThroughput": 838346494.9905,
+      "writeThroughput": 403437208.2463
+    },
+    {
+      "date": "2023-04-24T18:52:14.818Z",
+      "readIops": 99927.5948,
+      "writeIops": 226.4686,
+      "readThroughput": 2249708.2233,
+      "writeThroughput": 312143627.1622
+    },
+    {
+      "date": "2023-04-25T18:52:14.818Z",
+      "readIops": 74568.839,
+      "writeIops": 831.3783,
+      "readThroughput": 309637488.2189,
+      "writeThroughput": 576229859.3646
+    },
+    {
+      "date": "2023-04-26T18:52:14.818Z",
+      "readIops": 38525.6316,
+      "writeIops": 849.8016,
+      "readThroughput": 939788210.8521,
+      "writeThroughput": 562725697.6114
+    },
+    {
+      "date": "2023-04-27T18:52:14.818Z",
+      "readIops": 32557.5511,
+      "writeIops": 781.3188,
+      "readThroughput": 497476641.7796,
+      "writeThroughput": 717406946.6771
+    },
+    {
+      "date": "2023-04-28T18:52:14.818Z",
+      "readIops": 83652.5562,
+      "writeIops": 561.4618,
+      "readThroughput": 420998410.2044,
+      "writeThroughput": 707144966.0345
+    },
+    {
+      "date": "2023-04-29T18:52:14.818Z",
+      "readIops": 91186.617,
+      "writeIops": 742.82,
+      "readThroughput": 100471364.1581,
+      "writeThroughput": 824385057.3869
+    },
+    {
+      "date": "2023-04-30T18:52:14.818Z",
+      "readIops": 41144.3364,
+      "writeIops": 718.0818,
+      "readThroughput": 398437849.2181,
+      "writeThroughput": 572328091.3548
+    },
+    {
+      "date": "2023-05-01T18:52:14.818Z",
+      "readIops": 75639.4205,
+      "writeIops": 210.4154,
+      "readThroughput": 66425493.7369,
+      "writeThroughput": 514138571.2415
+    },
+    {
+      "date": "2023-05-02T18:52:14.818Z",
+      "readIops": 66305.5414,
+      "writeIops": 417.3861,
+      "readThroughput": 144494050.3908,
+      "writeThroughput": 292443272.1529
+    },
+    {
+      "date": "2023-05-03T18:52:14.818Z",
+      "readIops": 55957.2578,
+      "writeIops": 708.7468,
+      "readThroughput": 1019337763.1337,
+      "writeThroughput": 523747230.5003
+    },
+    {
+      "date": "2023-05-04T18:52:14.818Z",
+      "readIops": 70894.1284,
+      "writeIops": 344.0501,
+      "readThroughput": 221676699.0589,
+      "writeThroughput": 202198624.1158
+    },
+    {
+      "date": "2023-05-05T18:52:14.818Z",
+      "readIops": 35876.2285,
+      "writeIops": 966.9619,
+      "readThroughput": 385685379.0188,
+      "writeThroughput": 536596202.0143
+    },
+    {
+      "date": "2023-05-06T18:52:14.818Z",
+      "readIops": 90772.2542,
+      "writeIops": 966.9872,
+      "readThroughput": 49242717.5265,
+      "writeThroughput": 737676394.5617
+    },
+    {
+      "date": "2023-05-07T18:52:14.818Z",
+      "readIops": 16410.4443,
+      "writeIops": 698.8027,
+      "readThroughput": 39697586.7383,
+      "writeThroughput": 877177589.2898
+    },
+    {
+      "date": "2023-05-08T18:52:14.818Z",
+      "readIops": 62156.2227,
+      "writeIops": 193.2852,
+      "readThroughput": 800086429.7606,
+      "writeThroughput": 811812397.4364
+    },
+    {
+      "date": "2023-05-09T18:52:14.818Z",
+      "readIops": 59093.9839,
+      "writeIops": 931.3998,
+      "readThroughput": 785853185.5441,
+      "writeThroughput": 186303372.1483
+    },
+    {
+      "date": "2023-05-10T18:52:14.818Z",
+      "readIops": 67255.9701,
+      "writeIops": 413.8161,
+      "readThroughput": 6103799.6463,
+      "writeThroughput": 186195464.7672
+    },
+    {
+      "date": "2023-05-11T18:52:14.818Z",
+      "readIops": 21710.8255,
+      "writeIops": 195.689,
+      "readThroughput": 337205875.7869,
+      "writeThroughput": 403869460.7648
+    },
+    {
+      "date": "2023-05-12T18:52:14.818Z",
+      "readIops": 56211.9905,
+      "writeIops": 919.9723,
+      "readThroughput": 100692953.2225,
+      "writeThroughput": 816701455.6638
+    },
+    {
+      "date": "2023-05-13T18:52:14.818Z",
+      "readIops": 67341.7607,
+      "writeIops": 535.4815,
+      "readThroughput": 570974216.4563,
+      "writeThroughput": 972159595.8915
+    },
+    {
+      "date": "2023-05-14T18:52:14.818Z",
+      "readIops": 42997.9952,
+      "writeIops": 836.9197,
+      "readThroughput": 156831295.1529,
+      "writeThroughput": 432142254.2788
+    },
+    {
+      "date": "2023-05-15T18:52:14.818Z",
+      "readIops": 77468.0065,
+      "writeIops": 459.0821,
+      "readThroughput": 978912755.6901,
+      "writeThroughput": 1026248684.2075
+    },
+    {
+      "date": "2023-05-16T18:52:14.818Z",
+      "readIops": 12773.6413,
+      "writeIops": 684.8734,
+      "readThroughput": 760758197.6272,
+      "writeThroughput": 985962832.7242
+    },
+    {
+      "date": "2023-05-17T18:52:14.818Z",
+      "readIops": 11212.9739,
+      "writeIops": 478.1173,
+      "readThroughput": 70203641.2439,
+      "writeThroughput": 877092497.4428
+    },
+    {
+      "date": "2023-05-18T18:52:14.818Z",
+      "readIops": 15676.5072,
+      "writeIops": 889.8419,
+      "readThroughput": 180791873.5454,
+      "writeThroughput": 803759932.2586
+    },
+    {
+      "date": "2023-05-19T18:52:14.818Z",
+      "readIops": 40638.753,
+      "writeIops": 316.9978,
+      "readThroughput": 871990931.9535,
+      "writeThroughput": 796935854.9092
+    },
+    {
+      "date": "2023-05-20T18:52:14.818Z",
+      "readIops": 95986.509,
+      "writeIops": 392.1289,
+      "readThroughput": 201283460.4488,
+      "writeThroughput": 11659059.9609
+    },
+    {
+      "date": "2023-05-21T18:52:14.818Z",
+      "readIops": 41890.8265,
+      "writeIops": 955.7036,
+      "readThroughput": 191826315.4507,
+      "writeThroughput": 300020014.8416
+    },
+    {
+      "date": "2023-05-22T18:52:14.818Z",
+      "readIops": 65097.2827,
+      "writeIops": 297.7116,
+      "readThroughput": 1031250642.1603,
+      "writeThroughput": 642440646.3131
+    },
+    {
+      "date": "2023-05-23T18:52:14.818Z",
+      "readIops": 43309.4225,
+      "writeIops": 235.1083,
+      "readThroughput": 792727151.6441,
+      "writeThroughput": 424982762.2202
+    },
+    {
+      "date": "2023-05-24T18:52:14.818Z",
+      "readIops": 70908.959,
+      "writeIops": 433.4699,
+      "readThroughput": 613726568.1686,
+      "writeThroughput": 360380277.346
+    },
+    {
+      "date": "2023-05-25T18:52:14.818Z",
+      "readIops": 81287.6767,
+      "writeIops": 770.7866,
+      "readThroughput": 402078870.8446,
+      "writeThroughput": 259541367.1946
+    },
+    {
+      "date": "2023-05-26T18:52:14.818Z",
+      "readIops": 97053.031,
+      "writeIops": 314.8881,
+      "readThroughput": 141187695.0644,
+      "writeThroughput": 1029854111.4382
+    },
+    {
+      "date": "2023-05-27T18:52:14.818Z",
+      "readIops": 77930.4203,
+      "writeIops": 889.6364,
+      "readThroughput": 1030184980.6227,
+      "writeThroughput": 44833509.143
+    },
+    {
+      "date": "2023-05-28T18:52:14.818Z",
+      "readIops": 54416.3353,
+      "writeIops": 903.2075,
+      "readThroughput": 517357187.8294,
+      "writeThroughput": 258645338.8382
+    },
+    {
+      "date": "2023-05-29T18:52:14.818Z",
+      "readIops": 43777.6177,
+      "writeIops": 362.7596,
+      "readThroughput": 5982096.1855,
+      "writeThroughput": 128687024.1429
+    },
+    {
+      "date": "2023-05-30T18:52:14.818Z",
+      "readIops": 19443.5241,
+      "writeIops": 574.5956,
+      "readThroughput": 674607643.751,
+      "writeThroughput": 19270270.9855
+    },
+    {
+      "date": "2023-05-31T18:52:14.818Z",
+      "readIops": 81703.4339,
+      "writeIops": 535.0088,
+      "readThroughput": 348297893.7922,
+      "writeThroughput": 703842473.1558
+    },
+    {
+      "date": "2023-06-01T18:52:14.818Z",
+      "readIops": 85172.1813,
+      "writeIops": 430.6041,
+      "readThroughput": 718531683.7144,
+      "writeThroughput": 723543419.5393
+    },
+    {
+      "date": "2023-06-02T18:52:14.818Z",
+      "readIops": 55596.8401,
+      "writeIops": 791.2868,
+      "readThroughput": 612797347.6804,
+      "writeThroughput": 711020762.2029
+    },
+    {
+      "date": "2023-06-03T18:52:14.818Z",
+      "readIops": 17996.8579,
+      "writeIops": 636.068,
+      "readThroughput": 494731686.2574,
+      "writeThroughput": 898686917.6804
+    },
+    {
+      "date": "2023-06-04T18:52:14.818Z",
+      "readIops": 13754.9817,
+      "writeIops": 889.6303,
+      "readThroughput": 994977487.5686,
+      "writeThroughput": 1040498075.519
+    },
+    {
+      "date": "2023-06-05T18:52:14.818Z",
+      "readIops": 65536.7742,
+      "writeIops": 682.8035,
+      "readThroughput": 222814770.2814,
+      "writeThroughput": 376217726.2712
+    },
+    {
+      "date": "2023-06-06T18:52:14.818Z",
+      "readIops": 63125.4624,
+      "writeIops": 952.1995,
+      "readThroughput": 922447216.438,
+      "writeThroughput": 592965789.4731
+    },
+    {
+      "date": "2023-06-07T18:52:14.818Z",
+      "readIops": 98360.448,
+      "writeIops": 484.8777,
+      "readThroughput": 87668845.8685,
+      "writeThroughput": 742328865.4455
+    },
+    {
+      "date": "2023-06-08T18:52:14.818Z",
+      "readIops": 57429.364,
+      "writeIops": 665.6788,
+      "readThroughput": 971242947.4083,
+      "writeThroughput": 1000284699.5252
+    },
+    {
+      "date": "2023-06-09T18:52:14.818Z",
+      "readIops": 82429.2112,
+      "writeIops": 619.3799,
+      "readThroughput": 204552947.8599,
+      "writeThroughput": 361155746.6069
+    },
+    {
+      "date": "2023-06-10T18:52:14.818Z",
+      "readIops": 88801.0856,
+      "writeIops": 287.5829,
+      "readThroughput": 622111823.875,
+      "writeThroughput": 334955576.2913
+    },
+    {
+      "date": "2023-06-11T18:52:14.818Z",
+      "readIops": 82613.3427,
+      "writeIops": 248.4537,
+      "readThroughput": 1013560388.8841,
+      "writeThroughput": 913329435.0148
+    },
+    {
+      "date": "2023-06-12T18:52:14.818Z",
+      "readIops": 75076.9736,
+      "writeIops": 130.494,
+      "readThroughput": 19341128.1582,
+      "writeThroughput": 588312591.715
+    },
+    {
+      "date": "2023-06-13T18:52:14.818Z",
+      "readIops": 74520.401,
+      "writeIops": 158.4233,
+      "readThroughput": 191207567.1066,
+      "writeThroughput": 243943195.1502
+    },
+    {
+      "date": "2023-06-14T18:52:14.818Z",
+      "readIops": 57744.2707,
+      "writeIops": 880.5708,
+      "readThroughput": 814565445.921,
+      "writeThroughput": 597784463.8242
+    },
+    {
+      "date": "2023-06-15T18:52:14.818Z",
+      "readIops": 40752.747,
+      "writeIops": 769.3595,
+      "readThroughput": 54181951.3613,
+      "writeThroughput": 827072551.8868
+    },
+    {
+      "date": "2023-06-16T18:52:14.818Z",
+      "readIops": 71425.9274,
+      "writeIops": 235.9609,
+      "readThroughput": 611168966.5301,
+      "writeThroughput": 990663805.7372
+    },
+    {
+      "date": "2023-06-17T18:52:14.818Z",
+      "readIops": 18576.7967,
+      "writeIops": 568.1811,
+      "readThroughput": 691146506.279,
+      "writeThroughput": 474330212.5643
+    },
+    {
+      "date": "2023-06-18T18:52:14.818Z",
+      "readIops": 46678.5296,
+      "writeIops": 613.2641,
+      "readThroughput": 395419227.23,
+      "writeThroughput": 575709054.9874
+    },
+    {
+      "date": "2023-06-19T18:52:14.818Z",
+      "readIops": 66356.3707,
+      "writeIops": 396.3521,
+      "readThroughput": 860359400.8742,
+      "writeThroughput": 1034541150.248
+    },
+    {
+      "date": "2023-06-20T18:52:14.818Z",
+      "readIops": 73810.7347,
+      "writeIops": 498.3237,
+      "readThroughput": 1038292540.4005,
+      "writeThroughput": 1033399391.7498
+    },
+    {
+      "date": "2023-06-21T18:52:14.818Z",
+      "readIops": 83524.3897,
+      "writeIops": 984.4957,
+      "readThroughput": 443825914.8462,
+      "writeThroughput": 180993072.2511
+    },
+    {
+      "date": "2023-06-22T18:52:14.818Z",
+      "readIops": 81514.3071,
+      "writeIops": 119.7034,
+      "readThroughput": 204413116.3996,
+      "writeThroughput": 824673511.1587
+    },
+    {
+      "date": "2023-06-23T18:52:14.818Z",
+      "readIops": 45551.7424,
+      "writeIops": 350.1042,
+      "readThroughput": 716467225.8487,
+      "writeThroughput": 343291159.0205
+    },
+    {
+      "date": "2023-06-24T18:52:14.818Z",
+      "readIops": 54286.1196,
+      "writeIops": 290.4347,
+      "readThroughput": 289220852.025,
+      "writeThroughput": 577873238.9849
+    },
+    {
+      "date": "2023-06-25T18:52:14.818Z",
+      "readIops": 93666.4476,
+      "writeIops": 556.9977,
+      "readThroughput": 635227424.5158,
+      "writeThroughput": 643809506.5848
+    },
+    {
+      "date": "2023-06-26T18:52:14.818Z",
+      "readIops": 11136.6885,
+      "writeIops": 865.9504,
+      "readThroughput": 348411769.0309,
+      "writeThroughput": 15496501.9831
+    },
+    {
+      "date": "2023-06-27T18:52:14.818Z",
+      "readIops": 55707.9833,
+      "writeIops": 984.6091,
+      "readThroughput": 474555840.2311,
+      "writeThroughput": 705290609.3445
+    },
+    {
+      "date": "2023-06-28T18:52:14.818Z",
+      "readIops": 50804.4101,
+      "writeIops": 631.4447,
+      "readThroughput": 792693948.6497,
+      "writeThroughput": 67108434.1484
+    },
+    {
+      "date": "2023-06-29T18:52:14.818Z",
+      "readIops": 57780.1333,
+      "writeIops": 340.6549,
+      "readThroughput": 87868951.9894,
+      "writeThroughput": 614382616.1404
+    },
+    {
+      "date": "2023-06-30T18:52:14.818Z",
+      "readIops": 93314.3195,
+      "writeIops": 214.4664,
+      "readThroughput": 244507538.1719,
+      "writeThroughput": 132849668.134
+    },
+    {
+      "date": "2023-07-01T18:52:14.818Z",
+      "readIops": 38113.2818,
+      "writeIops": 946.9253,
+      "readThroughput": 1042954562.1937,
+      "writeThroughput": 60777289.1947
+    },
+    {
+      "date": "2023-07-02T18:52:14.818Z",
+      "readIops": 73444.1916,
+      "writeIops": 168.1749,
+      "readThroughput": 482786590.0452,
+      "writeThroughput": 130896578.9379
+    },
+    {
+      "date": "2023-07-03T18:52:14.818Z",
+      "readIops": 31518.0038,
+      "writeIops": 893.4836,
+      "readThroughput": 433188289.1596,
+      "writeThroughput": 560351979.8429
+    },
+    {
+      "date": "2023-07-04T18:52:14.818Z",
+      "readIops": 58982.484,
+      "writeIops": 528.7242,
+      "readThroughput": 118754054.3298,
+      "writeThroughput": 110718678.4036
+    },
+    {
+      "date": "2023-07-05T18:52:14.818Z",
+      "readIops": 80762.7443,
+      "writeIops": 156.5488,
+      "readThroughput": 398710727.3137,
+      "writeThroughput": 942278870.0993
+    },
+    {
+      "date": "2023-07-06T18:52:14.818Z",
+      "readIops": 55490.525,
+      "writeIops": 846.9016,
+      "readThroughput": 288428534.1137,
+      "writeThroughput": 70124669.2209
+    },
+    {
+      "date": "2023-07-07T18:52:14.818Z",
+      "readIops": 21238.3409,
+      "writeIops": 202.3984,
+      "readThroughput": 64753097.1356,
+      "writeThroughput": 534284857.5628
+    },
+    {
+      "date": "2023-07-08T18:52:14.818Z",
+      "readIops": 93732.5317,
+      "writeIops": 871.1191,
+      "readThroughput": 191611989.8581,
+      "writeThroughput": 510275297.4973
+    },
+    {
+      "date": "2023-07-09T18:52:14.818Z",
+      "readIops": 34765.5769,
+      "writeIops": 747.628,
+      "readThroughput": 17009900.9379,
+      "writeThroughput": 261872711.6748
+    },
+    {
+      "date": "2023-07-10T18:52:14.818Z",
+      "readIops": 50999.5959,
+      "writeIops": 157.4717,
+      "readThroughput": 340253014.7516,
+      "writeThroughput": 845370910.9752
+    },
+    {
+      "date": "2023-07-11T18:52:14.818Z",
+      "readIops": 81714.7195,
+      "writeIops": 591.0993,
+      "readThroughput": 554940113.2913,
+      "writeThroughput": 998104890.081
+    },
+    {
+      "date": "2023-07-12T18:52:14.818Z",
+      "readIops": 69295.3882,
+      "writeIops": 800.0374,
+      "readThroughput": 649197584.2033,
+      "writeThroughput": 966383301.1592
+    },
+    {
+      "date": "2023-07-13T18:52:14.818Z",
+      "readIops": 94413.4366,
+      "writeIops": 682.3997,
+      "readThroughput": 992263851.1904,
+      "writeThroughput": 103877702.032
+    },
+    {
+      "date": "2023-07-14T18:52:14.818Z",
+      "readIops": 37396.5305,
+      "writeIops": 888.6055,
+      "readThroughput": 627557062.1675,
+      "writeThroughput": 577279320.2146
+    },
+    {
+      "date": "2023-07-15T18:52:14.818Z",
+      "readIops": 79189.5433,
+      "writeIops": 438.1572,
+      "readThroughput": 1045465930.7599,
+      "writeThroughput": 645524889.2507
+    },
+    {
+      "date": "2023-07-16T18:52:14.818Z",
+      "readIops": 49386.0621,
+      "writeIops": 412.3388,
+      "readThroughput": 402023484.4879,
+      "writeThroughput": 860642865.152
+    },
+    {
+      "date": "2023-07-17T18:52:14.818Z",
+      "readIops": 14385.0516,
+      "writeIops": 528.3965,
+      "readThroughput": 715001158.7175,
+      "writeThroughput": 233287059.8554
+    },
+    {
+      "date": "2023-07-18T18:52:14.818Z",
+      "readIops": 53933.7992,
+      "writeIops": 313.4001,
+      "readThroughput": 1031484676.0888,
+      "writeThroughput": 182834371.1985
+    },
+    {
+      "date": "2023-07-19T18:52:14.818Z",
+      "readIops": 24758.6509,
+      "writeIops": 670.7538,
+      "readThroughput": 679062286.1634,
+      "writeThroughput": 890649371.392
+    },
+    {
+      "date": "2023-07-20T18:52:14.818Z",
+      "readIops": 48631.5892,
+      "writeIops": 664.6702,
+      "readThroughput": 770796382.9916,
+      "writeThroughput": 390123441.4863
+    },
+    {
+      "date": "2023-07-21T18:52:14.818Z",
+      "readIops": 37673.1512,
+      "writeIops": 919.9862,
+      "readThroughput": 549685510.5515,
+      "writeThroughput": 239447365.4413
+    },
+    {
+      "date": "2023-07-22T18:52:14.818Z",
+      "readIops": 98881.0283,
+      "writeIops": 962.4942,
+      "readThroughput": 120297239.9736,
+      "writeThroughput": 142750045.9702
+    },
+    {
+      "date": "2023-07-23T18:52:14.818Z",
+      "readIops": 50573.5323,
+      "writeIops": 842.9592,
+      "readThroughput": 564985208.9953,
+      "writeThroughput": 804485238.616
+    },
+    {
+      "date": "2023-07-24T18:52:14.818Z",
+      "readIops": 60150.6108,
+      "writeIops": 525.0307,
+      "readThroughput": 217196819.8408,
+      "writeThroughput": 810756544.7488
+    },
+    {
+      "date": "2023-07-25T18:52:14.818Z",
+      "readIops": 93829.5472,
+      "writeIops": 525.5397,
+      "readThroughput": 680824465.9325,
+      "writeThroughput": 929875981.5275
+    },
+    {
+      "date": "2023-07-26T18:52:14.818Z",
+      "readIops": 36346.5367,
+      "writeIops": 810.8802,
+      "readThroughput": 1011908724.6728,
+      "writeThroughput": 537928797.0983
+    },
+    {
+      "date": "2023-07-27T18:52:14.818Z",
+      "readIops": 65036.4391,
+      "writeIops": 277.1394,
+      "readThroughput": 193119880.4563,
+      "writeThroughput": 704577982.5114
+    },
+    {
+      "date": "2023-07-28T18:52:14.818Z",
+      "readIops": 71840.959,
+      "writeIops": 272.836,
+      "readThroughput": 932996263.4683,
+      "writeThroughput": 103168793.5839
+    },
+    {
+      "date": "2023-07-29T18:52:14.818Z",
+      "readIops": 29151.7549,
+      "writeIops": 330.0395,
+      "readThroughput": 933421787.495,
+      "writeThroughput": 137911900.1148
+    },
+    {
+      "date": "2023-07-30T18:52:14.818Z",
+      "readIops": 69638.3096,
+      "writeIops": 615.3561,
+      "readThroughput": 494085584.7499,
+      "writeThroughput": 751890781.6888
+    },
+    {
+      "date": "2023-07-31T18:52:14.818Z",
+      "readIops": 74485.8348,
+      "writeIops": 545.7873,
+      "readThroughput": 835321835.4179,
+      "writeThroughput": 838786463.8873
+    },
+    {
+      "date": "2023-08-01T18:52:14.818Z",
+      "readIops": 69251.1736,
+      "writeIops": 260.4694,
+      "readThroughput": 992777858.9475,
+      "writeThroughput": 451761958.9048
+    },
+    {
+      "date": "2023-08-02T18:52:14.818Z",
+      "readIops": 78314.7111,
+      "writeIops": 433.7146,
+      "readThroughput": 385067764.8565,
+      "writeThroughput": 776440826.3705
+    },
+    {
+      "date": "2023-08-03T18:52:14.818Z",
+      "readIops": 83508.7726,
+      "writeIops": 777.9845,
+      "readThroughput": 139671059.1859,
+      "writeThroughput": 6756457.5828
+    },
+    {
+      "date": "2023-08-04T18:52:14.818Z",
+      "readIops": 23996.4858,
+      "writeIops": 586.0278,
+      "readThroughput": 702476391.9932,
+      "writeThroughput": 902393249.4416
+    },
+    {
+      "date": "2023-08-05T18:52:14.818Z",
+      "readIops": 12667.1186,
+      "writeIops": 681.8543,
+      "readThroughput": 944127902.0198,
+      "writeThroughput": 652290946.0918
+    },
+    {
+      "date": "2023-08-06T18:52:14.818Z",
+      "readIops": 28309.8349,
+      "writeIops": 687.1451,
+      "readThroughput": 430524512.6711,
+      "writeThroughput": 259194503.2659
+    },
+    {
+      "date": "2023-08-07T18:52:14.818Z",
+      "readIops": 22474.7446,
+      "writeIops": 729.1643,
+      "readThroughput": 905432388.5178,
+      "writeThroughput": 261644724.3615
+    },
+    {
+      "date": "2023-08-08T18:52:14.818Z",
+      "readIops": 46257.2706,
+      "writeIops": 416.3167,
+      "readThroughput": 85459779.8437,
+      "writeThroughput": 262297023.6927
+    },
+    {
+      "date": "2023-08-09T18:52:14.818Z",
+      "readIops": 72089.8514,
+      "writeIops": 151.3915,
+      "readThroughput": 250000852.6127,
+      "writeThroughput": 1023816209.1213
+    },
+    {
+      "date": "2023-08-10T18:52:14.818Z",
+      "readIops": 29062.4807,
+      "writeIops": 852.3358,
+      "readThroughput": 587760903.9642,
+      "writeThroughput": 1051833959.4265
+    },
+    {
+      "date": "2023-08-11T18:52:14.818Z",
+      "readIops": 97339.7374,
+      "writeIops": 399.394,
+      "readThroughput": 934873023.126,
+      "writeThroughput": 665843728.3465
+    },
+    {
+      "date": "2023-08-12T18:52:14.818Z",
+      "readIops": 40554.342,
+      "writeIops": 697.5704,
+      "readThroughput": 160031444.138,
+      "writeThroughput": 949513518.2312
+    },
+    {
+      "date": "2023-08-13T18:52:14.818Z",
+      "readIops": 38830.8028,
+      "writeIops": 149.0743,
+      "readThroughput": 626514320.4292,
+      "writeThroughput": 691540235.2854
+    },
+    {
+      "date": "2023-08-14T18:52:14.818Z",
+      "readIops": 42966.66,
+      "writeIops": 703.082,
+      "readThroughput": 551267373.3475,
+      "writeThroughput": 569650232.8737
+    },
+    {
+      "date": "2023-08-15T18:52:14.818Z",
+      "readIops": 33683.7155,
+      "writeIops": 719.1013,
+      "readThroughput": 271775318.8496,
+      "writeThroughput": 868951908.1099
+    },
+    {
+      "date": "2023-08-16T18:52:14.818Z",
+      "readIops": 84514.2272,
+      "writeIops": 637.0621,
+      "readThroughput": 822076469.1781,
+      "writeThroughput": 1071946453.0511
+    },
+    {
+      "date": "2023-08-17T18:52:14.818Z",
+      "readIops": 47846.6595,
+      "writeIops": 304.6188,
+      "readThroughput": 210631017.142,
+      "writeThroughput": 339381993.1218
+    },
+    {
+      "date": "2023-08-18T18:52:14.818Z",
+      "readIops": 75281.9168,
+      "writeIops": 948.4778,
+      "readThroughput": 776686740.9034,
+      "writeThroughput": 406928401.0244
+    },
+    {
+      "date": "2023-08-19T18:52:14.818Z",
+      "readIops": 50477.6097,
+      "writeIops": 388.0544,
+      "readThroughput": 602259608.8804,
+      "writeThroughput": 1033912635.4332
+    },
+    {
+      "date": "2023-08-20T18:52:14.818Z",
+      "readIops": 97004.9548,
+      "writeIops": 382.7321,
+      "readThroughput": 862694783.4451,
+      "writeThroughput": 1043337936.4776
+    },
+    {
+      "date": "2023-08-21T18:52:14.818Z",
+      "readIops": 41488.9346,
+      "writeIops": 888.7047,
+      "readThroughput": 384925954.2721,
+      "writeThroughput": 941104941.3424
+    },
+    {
+      "date": "2023-08-22T18:52:14.818Z",
+      "readIops": 81592.4441,
+      "writeIops": 362.0955,
+      "readThroughput": 739655512.0204,
+      "writeThroughput": 643961420.1541
+    },
+    {
+      "date": "2023-08-23T18:52:14.818Z",
+      "readIops": 59923.6201,
+      "writeIops": 737.4768,
+      "readThroughput": 439094407.5995,
+      "writeThroughput": 972273278.7619
+    },
+    {
+      "date": "2023-08-24T18:52:14.818Z",
+      "readIops": 26303.4924,
+      "writeIops": 399.6825,
+      "readThroughput": 392189597.7833,
+      "writeThroughput": 755062542.9834
+    },
+    {
+      "date": "2023-08-25T18:52:14.818Z",
+      "readIops": 92023.3572,
+      "writeIops": 978.3426,
+      "readThroughput": 195888228.4584,
+      "writeThroughput": 886416309.575
+    },
+    {
+      "date": "2023-08-26T18:52:14.818Z",
+      "readIops": 74254.4981,
+      "writeIops": 507.2163,
+      "readThroughput": 313615133.1236,
+      "writeThroughput": 461145459.0909
+    },
+    {
+      "date": "2023-08-27T18:52:14.818Z",
+      "readIops": 28879.7589,
+      "writeIops": 579.3873,
+      "readThroughput": 285280749.1634,
+      "writeThroughput": 209604151.1276
+    },
+    {
+      "date": "2023-08-28T18:52:14.818Z",
+      "readIops": 44449.4351,
+      "writeIops": 294.7454,
+      "readThroughput": 373855267.6795,
+      "writeThroughput": 219169756.2032
+    },
+    {
+      "date": "2023-08-29T18:52:14.818Z",
+      "readIops": 78900.8929,
+      "writeIops": 561.0425,
+      "readThroughput": 109766468.8975,
+      "writeThroughput": 518316931.483
+    },
+    {
+      "date": "2023-08-30T18:52:14.818Z",
+      "readIops": 58866.9721,
+      "writeIops": 613.7454,
+      "readThroughput": 105164828.7055,
+      "writeThroughput": 880082662.9466
+    },
+    {
+      "date": "2023-08-31T18:52:14.818Z",
+      "readIops": 31844.339,
+      "writeIops": 857.1687,
+      "readThroughput": 1067519250.916,
+      "writeThroughput": 302933904.3257
+    },
+    {
+      "date": "2023-09-01T18:52:14.818Z",
+      "readIops": 92144.2322,
+      "writeIops": 945.3227,
+      "readThroughput": 820204511.7287,
+      "writeThroughput": 280761901.0373
+    },
+    {
+      "date": "2023-09-02T18:52:14.818Z",
+      "readIops": 12750.2891,
+      "writeIops": 404.2592,
+      "readThroughput": 570011724.2995,
+      "writeThroughput": 898982315.1108
+    },
+    {
+      "date": "2023-09-03T18:52:14.818Z",
+      "readIops": 40238.2245,
+      "writeIops": 469.9219,
+      "readThroughput": 896207519.4378,
+      "writeThroughput": 456172469.5536
+    },
+    {
+      "date": "2023-09-04T18:52:14.818Z",
+      "readIops": 40726.4523,
+      "writeIops": 475.4386,
+      "readThroughput": 9341334.8955,
+      "writeThroughput": 619168431.8103
+    },
+    {
+      "date": "2023-09-05T18:52:14.818Z",
+      "readIops": 69423.4741,
+      "writeIops": 904.7432,
+      "readThroughput": 920929245.8108,
+      "writeThroughput": 463358191.0697
+    },
+    {
+      "date": "2023-09-06T18:52:14.818Z",
+      "readIops": 36789.9034,
+      "writeIops": 553.1786,
+      "readThroughput": 711246093.0026,
+      "writeThroughput": 200091716.7419
+    },
+    {
+      "date": "2023-09-07T18:52:14.818Z",
+      "readIops": 34458.5143,
+      "writeIops": 812.3383,
+      "readThroughput": 1029429992.413,
+      "writeThroughput": 586997034.749
+    },
+    {
+      "date": "2023-09-08T18:52:14.818Z",
+      "readIops": 64602.7041,
+      "writeIops": 491.4031,
+      "readThroughput": 941854216.927,
+      "writeThroughput": 633336497.1651
+    },
+    {
+      "date": "2023-09-09T18:52:14.818Z",
+      "readIops": 48087.1116,
+      "writeIops": 459.4904,
+      "readThroughput": 945052529.2448,
+      "writeThroughput": 731682011.5872
+    },
+    {
+      "date": "2023-09-10T18:52:14.818Z",
+      "readIops": 20539.6472,
+      "writeIops": 674.6211,
+      "readThroughput": 774039329.5472,
+      "writeThroughput": 1028676387.2959
+    },
+    {
+      "date": "2023-09-11T18:52:14.818Z",
+      "readIops": 76888.885,
+      "writeIops": 649.4021,
+      "readThroughput": 774052715.794,
+      "writeThroughput": 1062163065.0141
+    },
+    {
+      "date": "2023-09-12T18:52:14.818Z",
+      "readIops": 40043.8638,
+      "writeIops": 919.1381,
+      "readThroughput": 925547326.7542,
+      "writeThroughput": 781214174.7442
+    },
+    {
+      "date": "2023-09-13T18:52:14.818Z",
+      "readIops": 38355.0822,
+      "writeIops": 460.8629,
+      "readThroughput": 934928633.701,
+      "writeThroughput": 416609760.6121
+    },
+    {
+      "date": "2023-09-14T18:52:14.818Z",
+      "readIops": 97448.7822,
+      "writeIops": 962.8875,
+      "readThroughput": 231302209.0868,
+      "writeThroughput": 840789732.0097
+    },
+    {
+      "date": "2023-09-15T18:52:14.818Z",
+      "readIops": 35045.864,
+      "writeIops": 270.6161,
+      "readThroughput": 1014789884.3142,
+      "writeThroughput": 262173574.2003
+    },
+    {
+      "date": "2023-09-16T18:52:14.818Z",
+      "readIops": 10908.5694,
+      "writeIops": 707.7853,
+      "readThroughput": 969305481.2158,
+      "writeThroughput": 923170268.3972
+    },
+    {
+      "date": "2023-09-17T18:52:14.818Z",
+      "readIops": 18614.9672,
+      "writeIops": 266.3324,
+      "readThroughput": 983511877.8139,
+      "writeThroughput": 534116320.3213
+    },
+    {
+      "date": "2023-09-18T18:52:14.818Z",
+      "readIops": 34192.4612,
+      "writeIops": 741.6031,
+      "readThroughput": 582425105.3733,
+      "writeThroughput": 653877988.8858
+    },
+    {
+      "date": "2023-09-19T18:52:14.818Z",
+      "readIops": 46534.5679,
+      "writeIops": 314.2989,
+      "readThroughput": 804577907.8442,
+      "writeThroughput": 308717375.2426
+    },
+    {
+      "date": "2023-09-20T18:52:14.818Z",
+      "readIops": 33293.6947,
+      "writeIops": 615.8436,
+      "readThroughput": 960789767.5733,
+      "writeThroughput": 642728466.939
+    },
+    {
+      "date": "2023-09-21T18:52:14.818Z",
+      "readIops": 97519.0481,
+      "writeIops": 847.0196,
+      "readThroughput": 54994524.3899,
+      "writeThroughput": 268963788.3735
+    },
+    {
+      "date": "2023-09-22T18:52:14.818Z",
+      "readIops": 10185.7516,
+      "writeIops": 316.132,
+      "readThroughput": 452133244.341,
+      "writeThroughput": 222435933.9394
+    },
+    {
+      "date": "2023-09-23T18:52:14.818Z",
+      "readIops": 17723.2953,
+      "writeIops": 588.7096,
+      "readThroughput": 444991314.5012,
+      "writeThroughput": 1024459066.6313
+    },
+    {
+      "date": "2023-09-24T18:52:14.818Z",
+      "readIops": 34653.2865,
+      "writeIops": 347.3509,
+      "readThroughput": 1044710937.316,
+      "writeThroughput": 44539568.4757
+    },
+    {
+      "date": "2023-09-25T18:52:14.818Z",
+      "readIops": 57160.2883,
+      "writeIops": 492.5465,
+      "readThroughput": 48542274.8142,
+      "writeThroughput": 281029767.8657
+    },
+    {
+      "date": "2023-09-26T18:52:14.818Z",
+      "readIops": 56609.0336,
+      "writeIops": 613.2291,
+      "readThroughput": 58343508.679,
+      "writeThroughput": 984036369.7325
+    },
+    {
+      "date": "2023-09-27T18:52:14.818Z",
+      "readIops": 78903.344,
+      "writeIops": 233.352,
+      "readThroughput": 713160830.5807,
+      "writeThroughput": 1048906067.6579
+    },
+    {
+      "date": "2023-09-28T18:52:14.818Z",
+      "readIops": 62428.429,
+      "writeIops": 595.896,
+      "readThroughput": 715082543.8708,
+      "writeThroughput": 741002505.9374
+    },
+    {
+      "date": "2023-09-29T18:52:14.818Z",
+      "readIops": 46820.8766,
+      "writeIops": 882.0603,
+      "readThroughput": 254901714.1653,
+      "writeThroughput": 347556749.0781
+    },
+    {
+      "date": "2023-09-30T18:52:14.818Z",
+      "readIops": 71669.9371,
+      "writeIops": 606.0843,
+      "readThroughput": 408070812.128,
+      "writeThroughput": 760423257.4922
+    },
+    {
+      "date": "2023-10-01T18:52:14.818Z",
+      "readIops": 19482.0145,
+      "writeIops": 512.5883,
+      "readThroughput": 387514792.6748,
+      "writeThroughput": 40065386.1834
+    },
+    {
+      "date": "2023-10-02T18:52:14.818Z",
+      "readIops": 48229.6562,
+      "writeIops": 279.3249,
+      "readThroughput": 606723877.4967,
+      "writeThroughput": 280516325.3743
+    },
+    {
+      "date": "2023-10-03T18:52:14.818Z",
+      "readIops": 74044.0101,
+      "writeIops": 632.3628,
+      "readThroughput": 1011693092.3408,
+      "writeThroughput": 624819366.0489
+    },
+    {
+      "date": "2023-10-04T18:52:14.818Z",
+      "readIops": 91045.0645,
+      "writeIops": 750.6168,
+      "readThroughput": 884450939.9902,
+      "writeThroughput": 309006698.79
+    },
+    {
+      "date": "2023-10-05T18:52:14.818Z",
+      "readIops": 29546.9541,
+      "writeIops": 293.9055,
+      "readThroughput": 871502121.4135,
+      "writeThroughput": 159314262.7549
+    },
+    {
+      "date": "2023-10-06T18:52:14.818Z",
+      "readIops": 54602.578,
+      "writeIops": 803.6264,
+      "readThroughput": 169470381.8474,
+      "writeThroughput": 385177070.8191
+    },
+    {
+      "date": "2023-10-07T18:52:14.818Z",
+      "readIops": 35925.4623,
+      "writeIops": 348.9268,
+      "readThroughput": 388590391.6912,
+      "writeThroughput": 596709649.583
+    },
+    {
+      "date": "2023-10-08T18:52:14.818Z",
+      "readIops": 17886.3465,
+      "writeIops": 797.1529,
+      "readThroughput": 315022497.4756,
+      "writeThroughput": 133294922.2895
+    },
+    {
+      "date": "2023-10-09T18:52:14.818Z",
+      "readIops": 86106.2812,
+      "writeIops": 526.1851,
+      "readThroughput": 846898701.4554,
+      "writeThroughput": 683074046.2231
+    },
+    {
+      "date": "2023-10-10T18:52:14.818Z",
+      "readIops": 70419.223,
+      "writeIops": 204.6248,
+      "readThroughput": 687123324.246,
+      "writeThroughput": 142256200.4573
+    },
+    {
+      "date": "2023-10-11T18:52:14.818Z",
+      "readIops": 99997.0012,
+      "writeIops": 859.669,
+      "readThroughput": 561945401.6477,
+      "writeThroughput": 377336602.5464
+    },
+    {
+      "date": "2023-10-12T18:52:14.818Z",
+      "readIops": 21562.9922,
+      "writeIops": 709.6584,
+      "readThroughput": 526947458.0333,
+      "writeThroughput": 875653437.7557
+    },
+    {
+      "date": "2023-10-13T18:52:14.818Z",
+      "readIops": 53701.4977,
+      "writeIops": 446.2967,
+      "readThroughput": 19869818.2933,
+      "writeThroughput": 457630161.5737
+    },
+    {
+      "date": "2023-10-14T18:52:14.818Z",
+      "readIops": 40108.1742,
+      "writeIops": 125.3597,
+      "readThroughput": 286404218.5574,
+      "writeThroughput": 365992749.4214
+    },
+    {
+      "date": "2023-10-15T18:52:14.818Z",
+      "readIops": 15486.449,
+      "writeIops": 418.507,
+      "readThroughput": 232518995.6809,
+      "writeThroughput": 203856620.4914
+    },
+    {
+      "date": "2023-10-16T18:52:14.818Z",
+      "readIops": 34085.993,
+      "writeIops": 688.2079,
+      "readThroughput": 999741902.296,
+      "writeThroughput": 662903411.9724
+    },
+    {
+      "date": "2023-10-17T18:52:14.818Z",
+      "readIops": 65196.4061,
+      "writeIops": 570.5504,
+      "readThroughput": 789851617.7405,
+      "writeThroughput": 162737012.5878
+    },
+    {
+      "date": "2023-10-18T18:52:14.818Z",
+      "readIops": 21545.2439,
+      "writeIops": 988.9185,
+      "readThroughput": 923625744.1357,
+      "writeThroughput": 868120123.9467
+    },
+    {
+      "date": "2023-10-19T18:52:14.818Z",
+      "readIops": 41147.1875,
+      "writeIops": 397.1611,
+      "readThroughput": 673530708.5705,
+      "writeThroughput": 546184114.7124
+    },
+    {
+      "date": "2023-10-20T18:52:14.818Z",
+      "readIops": 44708.4203,
+      "writeIops": 320.133,
+      "readThroughput": 409712536.4204,
+      "writeThroughput": 590308535.3672
+    },
+    {
+      "date": "2023-10-21T18:52:14.818Z",
+      "readIops": 39198.4389,
+      "writeIops": 305.3624,
+      "readThroughput": 231304146.7567,
+      "writeThroughput": 629999221.5147
+    },
+    {
+      "date": "2023-10-22T18:52:14.818Z",
+      "readIops": 72900.7419,
+      "writeIops": 719.2182,
+      "readThroughput": 141646602.5747,
+      "writeThroughput": 1079367.7984
+    },
+    {
+      "date": "2023-10-23T18:52:14.818Z",
+      "readIops": 41820.4884,
+      "writeIops": 310.2717,
+      "readThroughput": 486531385.8092,
+      "writeThroughput": 984194855.6096
+    },
+    {
+      "date": "2023-10-24T18:52:14.818Z",
+      "readIops": 61134.0514,
+      "writeIops": 653.2351,
+      "readThroughput": 550563643.1663,
+      "writeThroughput": 998774848.5469
+    },
+    {
+      "date": "2023-10-25T18:52:14.818Z",
+      "readIops": 34934.085,
+      "writeIops": 488.7215,
+      "readThroughput": 415928217.3989,
+      "writeThroughput": 926765045.6852
+    },
+    {
+      "date": "2023-10-26T18:52:14.818Z",
+      "readIops": 14866.3822,
+      "writeIops": 904.0137,
+      "readThroughput": 588977537.3754,
+      "writeThroughput": 1002993288.405
+    },
+    {
+      "date": "2023-10-27T18:52:14.818Z",
+      "readIops": 63145.7074,
+      "writeIops": 624.6298,
+      "readThroughput": 835146694.8446,
+      "writeThroughput": 888666738.3152
+    },
+    {
+      "date": "2023-10-28T18:52:14.818Z",
+      "readIops": 94804.0236,
+      "writeIops": 883.7702,
+      "readThroughput": 108112052.0262,
+      "writeThroughput": 394092501.9144
+    },
+    {
+      "date": "2023-10-29T18:52:14.818Z",
+      "readIops": 11518.6802,
+      "writeIops": 738.1287,
+      "readThroughput": 545409042.2946,
+      "writeThroughput": 473005793.0037
+    },
+    {
+      "date": "2023-10-30T18:52:14.818Z",
+      "readIops": 93844.7714,
+      "writeIops": 675.049,
+      "readThroughput": 128597935.1148,
+      "writeThroughput": 689099132.1889
+    },
+    {
+      "date": "2023-10-31T18:52:14.818Z",
+      "readIops": 92100.7048,
+      "writeIops": 484.1541,
+      "readThroughput": 807165089.33,
+      "writeThroughput": 204854539.7709
+    },
+    {
+      "date": "2023-11-01T18:52:14.818Z",
+      "readIops": 45435.3347,
+      "writeIops": 586.5522,
+      "readThroughput": 822067335.4378,
+      "writeThroughput": 277066621.8199
+    },
+    {
+      "date": "2023-11-02T18:52:14.818Z",
+      "readIops": 15407.1891,
+      "writeIops": 422.0457,
+      "readThroughput": 1029453179.9677,
+      "writeThroughput": 1050078017.8923
+    },
+    {
+      "date": "2023-11-03T18:52:14.818Z",
+      "readIops": 56771.4546,
+      "writeIops": 840.3286,
+      "readThroughput": 425925635.2356,
+      "writeThroughput": 606348754.0749
+    },
+    {
+      "date": "2023-11-04T18:52:14.818Z",
+      "readIops": 10522.805,
+      "writeIops": 854.983,
+      "readThroughput": 573033485.6169,
+      "writeThroughput": 36104712.9866
+    },
+    {
+      "date": "2023-11-05T18:52:14.818Z",
+      "readIops": 66440.7708,
+      "writeIops": 155.6923,
+      "readThroughput": 351089711.9577,
+      "writeThroughput": 303136105.2649
+    },
+    {
+      "date": "2023-11-06T18:52:14.818Z",
+      "readIops": 85654.6923,
+      "writeIops": 549.4948,
+      "readThroughput": 158878639.1466,
+      "writeThroughput": 459530470.0401
+    },
+    {
+      "date": "2023-11-07T18:52:14.818Z",
+      "readIops": 57319.2612,
+      "writeIops": 700.77,
+      "readThroughput": 400104508.3626,
+      "writeThroughput": 482087416.4268
+    },
+    {
+      "date": "2023-11-08T18:52:14.818Z",
+      "readIops": 67320.143,
+      "writeIops": 769.1308,
+      "readThroughput": 64710859.4463,
+      "writeThroughput": 1039084869.2807
+    },
+    {
+      "date": "2023-11-09T18:52:14.818Z",
+      "readIops": 59319.4665,
+      "writeIops": 147.045,
+      "readThroughput": 430282457.9249,
+      "writeThroughput": 77426674.9878
+    },
+    {
+      "date": "2023-11-10T18:52:14.818Z",
+      "readIops": 35953.3789,
+      "writeIops": 694.9597,
+      "readThroughput": 823588993.6805,
+      "writeThroughput": 134727078.3891
+    },
+    {
+      "date": "2023-11-11T18:52:14.818Z",
+      "readIops": 29484.3905,
+      "writeIops": 670.7709,
+      "readThroughput": 339925918.2587,
+      "writeThroughput": 766375112.7921
+    },
+    {
+      "date": "2023-11-12T18:52:14.818Z",
+      "readIops": 46876.6356,
+      "writeIops": 747.8715,
+      "readThroughput": 662394287.536,
+      "writeThroughput": 755446649.1153
+    },
+    {
+      "date": "2023-11-13T18:52:14.818Z",
+      "readIops": 84483.5494,
+      "writeIops": 286.6271,
+      "readThroughput": 227876751.1985,
+      "writeThroughput": 443640974.5828
+    },
+    {
+      "date": "2023-11-14T18:52:14.818Z",
+      "readIops": 67806.5608,
+      "writeIops": 540.6512,
+      "readThroughput": 515269479.0258,
+      "writeThroughput": 673285714.049
+    },
+    {
+      "date": "2023-11-15T18:52:14.818Z",
+      "readIops": 41591.1277,
+      "writeIops": 753.0994,
+      "readThroughput": 25013211.1232,
+      "writeThroughput": 721252188.7196
+    },
+    {
+      "date": "2023-11-16T18:52:14.818Z",
+      "readIops": 21551.5614,
+      "writeIops": 423.7613,
+      "readThroughput": 87620960.6141,
+      "writeThroughput": 42169849.3114
+    },
+    {
+      "date": "2023-11-17T18:52:14.818Z",
+      "readIops": 81156.5035,
+      "writeIops": 962.4993,
+      "readThroughput": 625467009.1784,
+      "writeThroughput": 267546288.855
+    },
+    {
+      "date": "2023-11-18T18:52:14.818Z",
+      "readIops": 67175.9955,
+      "writeIops": 973.4754,
+      "readThroughput": 896950256.9675,
+      "writeThroughput": 703798694.6516
+    },
+    {
+      "date": "2023-11-19T18:52:14.818Z",
+      "readIops": 63549.0039,
+      "writeIops": 801.7949,
+      "readThroughput": 695343334.5294,
+      "writeThroughput": 582654409.2499
+    },
+    {
+      "date": "2023-11-20T18:52:14.818Z",
+      "readIops": 69565.1838,
+      "writeIops": 648.8255,
+      "readThroughput": 590651434.0742,
+      "writeThroughput": 278893343.6317
+    },
+    {
+      "date": "2023-11-21T18:52:14.818Z",
+      "readIops": 23802.4965,
+      "writeIops": 886.0092,
+      "readThroughput": 329063841.8112,
+      "writeThroughput": 937005482.5268
+    },
+    {
+      "date": "2023-11-22T18:52:14.818Z",
+      "readIops": 76360.5563,
+      "writeIops": 262.1164,
+      "readThroughput": 803360665.2755,
+      "writeThroughput": 283199707.2165
+    },
+    {
+      "date": "2023-11-23T18:52:14.818Z",
+      "readIops": 37809.6012,
+      "writeIops": 180.4679,
+      "readThroughput": 3453865.2957,
+      "writeThroughput": 152891783.4641
+    },
+    {
+      "date": "2023-11-24T18:52:14.818Z",
+      "readIops": 53699.5508,
+      "writeIops": 871.8843,
+      "readThroughput": 140540605.2314,
+      "writeThroughput": 484912118.7927
+    },
+    {
+      "date": "2023-11-25T18:52:14.818Z",
+      "readIops": 68156.8571,
+      "writeIops": 617.1233,
+      "readThroughput": 178125924.3175,
+      "writeThroughput": 408891110.4887
+    },
+    {
+      "date": "2023-11-26T18:52:14.818Z",
+      "readIops": 20057.397,
+      "writeIops": 399.075,
+      "readThroughput": 731156667.3187,
+      "writeThroughput": 547462579.2957
+    },
+    {
+      "date": "2023-11-27T18:52:14.818Z",
+      "readIops": 25816.7934,
+      "writeIops": 255.2707,
+      "readThroughput": 629205107.9449,
+      "writeThroughput": 849992334.455
+    },
+    {
+      "date": "2023-11-28T18:52:14.818Z",
+      "readIops": 72692.2791,
+      "writeIops": 764.1634,
+      "readThroughput": 462390135.7272,
+      "writeThroughput": 130239210.8413
+    },
+    {
+      "date": "2023-11-29T18:52:14.818Z",
+      "readIops": 96211.9432,
+      "writeIops": 906.3004,
+      "readThroughput": 903188231.1007,
+      "writeThroughput": 234993829.1315
+    },
+    {
+      "date": "2023-11-30T18:52:14.818Z",
+      "readIops": 12027.0947,
+      "writeIops": 533.5744,
+      "readThroughput": 225535054.7845,
+      "writeThroughput": 574073024.1987
+    },
+    {
+      "date": "2023-12-01T18:52:14.818Z",
+      "readIops": 37473.5982,
+      "writeIops": 107.1322,
+      "readThroughput": 306623326.477,
+      "writeThroughput": 1051066223.3741
+    },
+    {
+      "date": "2023-12-02T18:52:14.818Z",
+      "readIops": 57564.1618,
+      "writeIops": 424.7586,
+      "readThroughput": 665146665.1581,
+      "writeThroughput": 99237900.1361
+    },
+    {
+      "date": "2023-12-03T18:52:14.818Z",
+      "readIops": 64372.1756,
+      "writeIops": 486.8145,
+      "readThroughput": 752203991.3291,
+      "writeThroughput": 625917519.8703
+    },
+    {
+      "date": "2023-12-04T18:52:14.818Z",
+      "readIops": 29734.3219,
+      "writeIops": 819.6513,
+      "readThroughput": 369270774.4842,
+      "writeThroughput": 705757950.0892
+    },
+    {
+      "date": "2023-12-05T18:52:14.818Z",
+      "readIops": 55032.5238,
+      "writeIops": 713.3165,
+      "readThroughput": 264394892.8088,
+      "writeThroughput": 434219229.7932
+    },
+    {
+      "date": "2023-12-06T18:52:14.818Z",
+      "readIops": 53497.943,
+      "writeIops": 759.2934,
+      "readThroughput": 467742234.2193,
+      "writeThroughput": 878126014.0281
+    },
+    {
+      "date": "2023-12-07T18:52:14.818Z",
+      "readIops": 99791.7131,
+      "writeIops": 533.9261,
+      "readThroughput": 438773204.2615,
+      "writeThroughput": 905305091.552
+    },
+    {
+      "date": "2023-12-08T18:52:14.818Z",
+      "readIops": 50587.4616,
+      "writeIops": 316.9304,
+      "readThroughput": 738174897.3192,
+      "writeThroughput": 1056769734.0424
+    },
+    {
+      "date": "2023-12-09T18:52:14.818Z",
+      "readIops": 98441.9551,
+      "writeIops": 520.647,
+      "readThroughput": 293245517.5459,
+      "writeThroughput": 35173627.5802
+    },
+    {
+      "date": "2023-12-10T18:52:14.818Z",
+      "readIops": 68056.0698,
+      "writeIops": 953.2304,
+      "readThroughput": 631618566.7453,
+      "writeThroughput": 526684823.0623
+    },
+    {
+      "date": "2023-12-11T18:52:14.818Z",
+      "readIops": 33825.426,
+      "writeIops": 387.3096,
+      "readThroughput": 903276805.987,
+      "writeThroughput": 435005650.2166
+    },
+    {
+      "date": "2023-12-12T18:52:14.818Z",
+      "readIops": 74219.959,
+      "writeIops": 990.2221,
+      "readThroughput": 286031479.3255,
+      "writeThroughput": 877359216.1882
+    },
+    {
+      "date": "2023-12-13T18:52:14.818Z",
+      "readIops": 28346.4559,
+      "writeIops": 588.9644,
+      "readThroughput": 199673866.0783,
+      "writeThroughput": 128533602.6255
+    },
+    {
+      "date": "2023-12-14T18:52:14.818Z",
+      "readIops": 28653.3155,
+      "writeIops": 129.6547,
+      "readThroughput": 753983608.9659,
+      "writeThroughput": 771841698.464
+    },
+    {
+      "date": "2023-12-15T18:52:14.818Z",
+      "readIops": 33054.2011,
+      "writeIops": 427.7885,
+      "readThroughput": 557400121.0892,
+      "writeThroughput": 393946698.7738
+    },
+    {
+      "date": "2023-12-16T18:52:14.818Z",
+      "readIops": 57026.6488,
+      "writeIops": 116.4374,
+      "readThroughput": 496026915.0011,
+      "writeThroughput": 828852166.0413
+    },
+    {
+      "date": "2023-12-17T18:52:14.818Z",
+      "readIops": 49488.4549,
+      "writeIops": 442.7405,
+      "readThroughput": 397071405.452,
+      "writeThroughput": 693225144.8198
+    },
+    {
+      "date": "2023-12-18T18:52:14.818Z",
+      "readIops": 88447.9526,
+      "writeIops": 209.0949,
+      "readThroughput": 356799990.6815,
+      "writeThroughput": 315347028.1621
+    },
+    {
+      "date": "2023-12-19T18:52:14.818Z",
+      "readIops": 50060.8241,
+      "writeIops": 514.0684,
+      "readThroughput": 797382629.379,
+      "writeThroughput": 462668825.9865
+    },
+    {
+      "date": "2023-12-20T18:52:14.818Z",
+      "readIops": 22859.9365,
+      "writeIops": 281.9833,
+      "readThroughput": 385578679.0067,
+      "writeThroughput": 588892865.0802
+    },
+    {
+      "date": "2023-12-21T18:52:14.818Z",
+      "readIops": 56888.7721,
+      "writeIops": 976.0392,
+      "readThroughput": 196574702.0549,
+      "writeThroughput": 263494137.5228
+    },
+    {
+      "date": "2023-12-22T18:52:14.818Z",
+      "readIops": 76600.4909,
+      "writeIops": 772.6587,
+      "readThroughput": 472288503.4047,
+      "writeThroughput": 814328191.1107
+    },
+    {
+      "date": "2023-12-23T18:52:14.818Z",
+      "readIops": 61073.5205,
+      "writeIops": 357.9052,
+      "readThroughput": 57192756.371,
+      "writeThroughput": 629817617.365
+    },
+    {
+      "date": "2023-12-24T18:52:14.818Z",
+      "readIops": 65544.8976,
+      "writeIops": 406.8099,
+      "readThroughput": 337440779.8978,
+      "writeThroughput": 537061443.9383
+    },
+    {
+      "date": "2023-12-25T18:52:14.818Z",
+      "readIops": 99822.5792,
+      "writeIops": 240.3447,
+      "readThroughput": 408266967.9093,
+      "writeThroughput": 811246655.0118
+    },
+    {
+      "date": "2023-12-26T18:52:14.818Z",
+      "readIops": 30385.2027,
+      "writeIops": 352.7857,
+      "readThroughput": 497946793.9041,
+      "writeThroughput": 984144836.3552
+    },
+    {
+      "date": "2023-12-27T18:52:14.818Z",
+      "readIops": 24735.1949,
+      "writeIops": 230.6098,
+      "readThroughput": 61971397.9757,
+      "writeThroughput": 454647026.5998
+    },
+    {
+      "date": "2023-12-28T18:52:14.818Z",
+      "readIops": 23276.6801,
+      "writeIops": 262.4545,
+      "readThroughput": 515005389.9562,
+      "writeThroughput": 64210672.6759
+    },
+    {
+      "date": "2023-12-29T18:52:14.818Z",
+      "readIops": 65072.0587,
+      "writeIops": 315.3516,
+      "readThroughput": 418383186.4652,
+      "writeThroughput": 4346283.6267
+    },
+    {
+      "date": "2023-12-30T18:52:14.818Z",
+      "readIops": 72334.085,
+      "writeIops": 189.0211,
+      "readThroughput": 771035953.2918,
+      "writeThroughput": 9650509.2025
+    },
+    {
+      "date": "2023-12-31T18:52:14.818Z",
+      "readIops": 68310.184,
+      "writeIops": 452.2677,
+      "readThroughput": 665153334.0197,
+      "writeThroughput": 437679144.5035
+    },
+    {
+      "date": "2024-01-01T18:52:14.818Z",
+      "readIops": 42185.8181,
+      "writeIops": 145.4868,
+      "readThroughput": 991496364.9073,
+      "writeThroughput": 438381218.3688
+    },
+    {
+      "date": "2024-01-02T18:52:14.818Z",
+      "readIops": 86878.9808,
+      "writeIops": 349.3711,
+      "readThroughput": 242322795.8898,
+      "writeThroughput": 834448065.9116
+    },
+    {
+      "date": "2024-01-03T18:52:14.818Z",
+      "readIops": 19996.227,
+      "writeIops": 803.9584,
+      "readThroughput": 1001095139.7101,
+      "writeThroughput": 55890144.6317
+    },
+    {
+      "date": "2024-01-04T18:52:14.818Z",
+      "readIops": 98378.6593,
+      "writeIops": 179.5806,
+      "readThroughput": 427196717.0389,
+      "writeThroughput": 557273832.8867
+    },
+    {
+      "date": "2024-01-05T18:52:14.818Z",
+      "readIops": 31075.7025,
+      "writeIops": 254.3355,
+      "readThroughput": 759229439.195,
+      "writeThroughput": 730714336.2285
+    },
+    {
+      "date": "2024-01-06T18:52:14.818Z",
+      "readIops": 76410.6117,
+      "writeIops": 919.9599,
+      "readThroughput": 728389062.2601,
+      "writeThroughput": 871074695.709
+    },
+    {
+      "date": "2024-01-07T18:52:14.818Z",
+      "readIops": 62164.9953,
+      "writeIops": 431.4893,
+      "readThroughput": 549924888.6726,
+      "writeThroughput": 685507889.9628
+    },
+    {
+      "date": "2024-01-08T18:52:14.818Z",
+      "readIops": 71476.9018,
+      "writeIops": 218.3933,
+      "readThroughput": 343961127.0184,
+      "writeThroughput": 783944569.7366
+    },
+    {
+      "date": "2024-01-09T18:52:14.818Z",
+      "readIops": 76060.1586,
+      "writeIops": 833.5498,
+      "readThroughput": 421075318.3955,
+      "writeThroughput": 982378887.5237
+    },
+    {
+      "date": "2024-01-10T18:52:14.818Z",
+      "readIops": 68047.8436,
+      "writeIops": 823.9008,
+      "readThroughput": 1071213775.1908,
+      "writeThroughput": 950617566.3848
+    },
+    {
+      "date": "2024-01-11T18:52:14.818Z",
+      "readIops": 99538.5838,
+      "writeIops": 925.6433,
+      "readThroughput": 733569442.3707,
+      "writeThroughput": 905292523.4471
+    },
+    {
+      "date": "2024-01-12T18:52:14.818Z",
+      "readIops": 26603.4246,
+      "writeIops": 812.7303,
+      "readThroughput": 331361817.5511,
+      "writeThroughput": 159068984.6191
+    },
+    {
+      "date": "2024-01-13T18:52:14.818Z",
+      "readIops": 64660.5652,
+      "writeIops": 271.9501,
+      "readThroughput": 181570835.4361,
+      "writeThroughput": 255939999.4807
+    },
+    {
+      "date": "2024-01-14T18:52:14.818Z",
+      "readIops": 86397.3788,
+      "writeIops": 861.1956,
+      "readThroughput": 62487372.0594,
+      "writeThroughput": 307388074.7175
+    },
+    {
+      "date": "2024-01-15T18:52:14.818Z",
+      "readIops": 90484.9669,
+      "writeIops": 604.1512,
+      "readThroughput": 1042782184.0398,
+      "writeThroughput": 513384477.688
+    },
+    {
+      "date": "2024-01-16T18:52:14.818Z",
+      "readIops": 46534.8077,
+      "writeIops": 633.47,
+      "readThroughput": 943518469.3947,
+      "writeThroughput": 578740695.9659
+    },
+    {
+      "date": "2024-01-17T18:52:14.818Z",
+      "readIops": 75912.6132,
+      "writeIops": 472.9823,
+      "readThroughput": 133781351.8199,
+      "writeThroughput": 940791370.542
+    },
+    {
+      "date": "2024-01-18T18:52:14.818Z",
+      "readIops": 12574.2766,
+      "writeIops": 587.0975,
+      "readThroughput": 765179204.8274,
+      "writeThroughput": 331100925.5843
+    },
+    {
+      "date": "2024-01-19T18:52:14.818Z",
+      "readIops": 69941.5384,
+      "writeIops": 231.0719,
+      "readThroughput": 587608018.0687,
+      "writeThroughput": 1013893734.4801
+    },
+    {
+      "date": "2024-01-20T18:52:14.818Z",
+      "readIops": 19621.6138,
+      "writeIops": 212.2004,
+      "readThroughput": 268425245.9075,
+      "writeThroughput": 422423951.859
+    },
+    {
+      "date": "2024-01-21T18:52:14.818Z",
+      "readIops": 54325.8015,
+      "writeIops": 440.0845,
+      "readThroughput": 769717623.2412,
+      "writeThroughput": 725726089.6817
+    },
+    {
+      "date": "2024-01-22T18:52:14.818Z",
+      "readIops": 26713.9946,
+      "writeIops": 192.5316,
+      "readThroughput": 846923479.2077,
+      "writeThroughput": 833908976.2108
+    },
+    {
+      "date": "2024-01-23T18:52:14.818Z",
+      "readIops": 26013.9802,
+      "writeIops": 668.2777,
+      "readThroughput": 268772710.0494,
+      "writeThroughput": 245369347.8213
+    },
+    {
+      "date": "2024-01-24T18:52:14.818Z",
+      "readIops": 70073.4011,
+      "writeIops": 614.5193,
+      "readThroughput": 487982549.5203,
+      "writeThroughput": 370884989.8586
+    },
+    {
+      "date": "2024-01-25T18:52:14.818Z",
+      "readIops": 64563.1267,
+      "writeIops": 407.9271,
+      "readThroughput": 159369308.8392,
+      "writeThroughput": 976032811.5252
+    },
+    {
+      "date": "2024-01-26T18:52:14.818Z",
+      "readIops": 27109.9507,
+      "writeIops": 987.5544,
+      "readThroughput": 97238289.3269,
+      "writeThroughput": 126932225.6148
+    },
+    {
+      "date": "2024-01-27T18:52:14.818Z",
+      "readIops": 35016.4947,
+      "writeIops": 326.9277,
+      "readThroughput": 221859270.2529,
+      "writeThroughput": 47570962.2996
+    },
+    {
+      "date": "2024-01-28T18:52:14.818Z",
+      "readIops": 31223.9017,
+      "writeIops": 360.0338,
+      "readThroughput": 890007680.8491,
+      "writeThroughput": 754166472.4896
+    },
+    {
+      "date": "2024-01-29T18:52:14.818Z",
+      "readIops": 80794.3179,
+      "writeIops": 904.0992,
+      "readThroughput": 2446484.3952,
+      "writeThroughput": 707997827.9003
+    },
+    {
+      "date": "2024-01-30T18:52:14.818Z",
+      "readIops": 29456.5148,
+      "writeIops": 564.4059,
+      "readThroughput": 975262732.7235,
+      "writeThroughput": 371062072.9342
+    },
+    {
+      "date": "2024-01-31T18:52:14.818Z",
+      "readIops": 30506.1589,
+      "writeIops": 670.4245,
+      "readThroughput": 725750503.1035,
+      "writeThroughput": 432631064.027
+    },
+    {
+      "date": "2024-02-01T18:52:14.818Z",
+      "readIops": 28359.6241,
+      "writeIops": 620.2389,
+      "readThroughput": 994315506.0867,
+      "writeThroughput": 218294869.4617
+    },
+    {
+      "date": "2024-02-02T18:52:14.818Z",
+      "readIops": 72472.9868,
+      "writeIops": 131.2002,
+      "readThroughput": 880412013.4532,
+      "writeThroughput": 842467046.3057
+    },
+    {
+      "date": "2024-02-03T18:52:14.818Z",
+      "readIops": 66115.4768,
+      "writeIops": 735.4332,
+      "readThroughput": 185773650.7141,
+      "writeThroughput": 587178714.0909
+    },
+    {
+      "date": "2024-02-04T18:52:14.818Z",
+      "readIops": 54354.2619,
+      "writeIops": 124.7135,
+      "readThroughput": 242847673.0206,
+      "writeThroughput": 182654300.6929
+    },
+    {
+      "date": "2024-02-05T18:52:14.818Z",
+      "readIops": 94516.437,
+      "writeIops": 841.7068,
+      "readThroughput": 999792685.8333,
+      "writeThroughput": 818728051.7523
+    },
+    {
+      "date": "2024-02-06T18:52:14.818Z",
+      "readIops": 15079.4938,
+      "writeIops": 270.8399,
+      "readThroughput": 246389655.4199,
+      "writeThroughput": 642634853.2678
+    },
+    {
+      "date": "2024-02-07T18:52:14.818Z",
+      "readIops": 53199.2169,
+      "writeIops": 447.8381,
+      "readThroughput": 91788847.5228,
+      "writeThroughput": 276581907.9337
+    },
+    {
+      "date": "2024-02-08T18:52:14.818Z",
+      "readIops": 53524.551,
+      "writeIops": 413.7808,
+      "readThroughput": 265812241.6612,
+      "writeThroughput": 784024195.4998
+    },
+    {
+      "date": "2024-02-09T18:52:14.818Z",
+      "readIops": 13231.4884,
+      "writeIops": 105.6073,
+      "readThroughput": 939943924.8205,
+      "writeThroughput": 359720067.4091
+    },
+    {
+      "date": "2024-02-10T18:52:14.818Z",
+      "readIops": 40356.8177,
+      "writeIops": 141.92,
+      "readThroughput": 66524265.8269,
+      "writeThroughput": 258419238.6302
+    },
+    {
+      "date": "2024-02-11T18:52:14.818Z",
+      "readIops": 31487.4667,
+      "writeIops": 338.7585,
+      "readThroughput": 577222229.7621,
+      "writeThroughput": 582355189.5083
+    },
+    {
+      "date": "2024-02-12T18:52:14.818Z",
+      "readIops": 10526.3139,
+      "writeIops": 951.1879,
+      "readThroughput": 522576470.0982,
+      "writeThroughput": 1034308066.6083
+    },
+    {
+      "date": "2024-02-13T18:52:14.818Z",
+      "readIops": 31521.4198,
+      "writeIops": 441.4775,
+      "readThroughput": 15178401.3069,
+      "writeThroughput": 1008580360.4749
+    },
+    {
+      "date": "2024-02-14T18:52:14.818Z",
+      "readIops": 74495.7142,
+      "writeIops": 489.9886,
+      "readThroughput": 767643227.9443,
+      "writeThroughput": 196495296.3896
+    },
+    {
+      "date": "2024-02-15T18:52:14.818Z",
+      "readIops": 11265.0972,
+      "writeIops": 593.3585,
+      "readThroughput": 649963551.3668,
+      "writeThroughput": 43829860.6502
+    },
+    {
+      "date": "2024-02-16T18:52:14.818Z",
+      "readIops": 72212.6486,
+      "writeIops": 133.1237,
+      "readThroughput": 806396732.643,
+      "writeThroughput": 491436425.7954
+    },
+    {
+      "date": "2024-02-17T18:52:14.818Z",
+      "readIops": 11920.7587,
+      "writeIops": 944.3369,
+      "readThroughput": 787912760.5841,
+      "writeThroughput": 424065539.4323
+    },
+    {
+      "date": "2024-02-18T18:52:14.818Z",
+      "readIops": 90967.8566,
+      "writeIops": 752.8742,
+      "readThroughput": 825267259.3425,
+      "writeThroughput": 964123573.7736
+    },
+    {
+      "date": "2024-02-19T18:52:14.818Z",
+      "readIops": 66004.4571,
+      "writeIops": 116.0371,
+      "readThroughput": 208208654.8215,
+      "writeThroughput": 521441587.9469
+    },
+    {
+      "date": "2024-02-20T18:52:14.818Z",
+      "readIops": 45520.0987,
+      "writeIops": 586.372,
+      "readThroughput": 399483483.6113,
+      "writeThroughput": 536308054.4021
+    },
+    {
+      "date": "2024-02-21T18:52:14.818Z",
+      "readIops": 75294.3509,
+      "writeIops": 281.8942,
+      "readThroughput": 498434467.5297,
+      "writeThroughput": 953256646.883
+    },
+    {
+      "date": "2024-02-22T18:52:14.818Z",
+      "readIops": 39486.4547,
+      "writeIops": 931.5888,
+      "readThroughput": 626114368.5129,
+      "writeThroughput": 546496373.0951
+    },
+    {
+      "date": "2024-02-23T18:52:14.818Z",
+      "readIops": 49918.57,
+      "writeIops": 851.8049,
+      "readThroughput": 344424755.0061,
+      "writeThroughput": 122175705.0472
+    },
+    {
+      "date": "2024-02-24T18:52:14.818Z",
+      "readIops": 67765.5223,
+      "writeIops": 847.055,
+      "readThroughput": 1049731037.109,
+      "writeThroughput": 416614041.7866
+    },
+    {
+      "date": "2024-02-25T18:52:14.818Z",
+      "readIops": 77705.697,
+      "writeIops": 211.0923,
+      "readThroughput": 929705611.5507,
+      "writeThroughput": 286220210.3315
+    },
+    {
+      "date": "2024-02-26T18:52:14.818Z",
+      "readIops": 99394.7629,
+      "writeIops": 315.3511,
+      "readThroughput": 347999101.4438,
+      "writeThroughput": 916090482.1091
+    },
+    {
+      "date": "2024-02-27T18:52:14.818Z",
+      "readIops": 52199.5908,
+      "writeIops": 470.789,
+      "readThroughput": 368981059.7222,
+      "writeThroughput": 614142221.3434
+    },
+    {
+      "date": "2024-02-28T18:52:14.818Z",
+      "readIops": 47067.1381,
+      "writeIops": 567.2993,
+      "readThroughput": 316723877.259,
+      "writeThroughput": 196309941.7905
+    },
+    {
+      "date": "2024-02-29T18:52:14.818Z",
+      "readIops": 96157.6773,
+      "writeIops": 741.3066,
+      "readThroughput": 57034737.1023,
+      "writeThroughput": 434763983.9464
+    },
+    {
+      "date": "2024-03-01T18:52:14.818Z",
+      "readIops": 91016.1935,
+      "writeIops": 413.5798,
+      "readThroughput": 337548598.017,
+      "writeThroughput": 570513057.0989
+    },
+    {
+      "date": "2024-03-02T18:52:14.818Z",
+      "readIops": 25584.224,
+      "writeIops": 824.2629,
+      "readThroughput": 655913166.191,
+      "writeThroughput": 739407664.6197
+    },
+    {
+      "date": "2024-03-03T18:52:14.818Z",
+      "readIops": 78794.8303,
+      "writeIops": 401.8396,
+      "readThroughput": 355578766.5753,
+      "writeThroughput": 652896863.3094
+    },
+    {
+      "date": "2024-03-04T18:52:14.818Z",
+      "readIops": 94194.1454,
+      "writeIops": 151.8995,
+      "readThroughput": 829364219.8358,
+      "writeThroughput": 230515491.1492
+    },
+    {
+      "date": "2024-03-05T18:52:14.818Z",
+      "readIops": 28739.0255,
+      "writeIops": 820.1,
+      "readThroughput": 733204209.1132,
+      "writeThroughput": 1038774637.1641
+    },
+    {
+      "date": "2024-03-06T18:52:14.818Z",
+      "readIops": 41115.3091,
+      "writeIops": 210.3387,
+      "readThroughput": 227134432.4846,
+      "writeThroughput": 834991707.6366
+    },
+    {
+      "date": "2024-03-07T18:52:14.818Z",
+      "readIops": 72377.6701,
+      "writeIops": 991.1499,
+      "readThroughput": 185665791.2686,
+      "writeThroughput": 307257895.5101
+    },
+    {
+      "date": "2024-03-08T18:52:14.818Z",
+      "readIops": 64359.0963,
+      "writeIops": 733.9714,
+      "readThroughput": 560494911.7013,
+      "writeThroughput": 509568702.7785
+    },
+    {
+      "date": "2024-03-09T18:52:14.818Z",
+      "readIops": 55270.0607,
+      "writeIops": 226.6773,
+      "readThroughput": 239504874.7331,
+      "writeThroughput": 835091537.3952
+    },
+    {
+      "date": "2024-03-10T18:52:14.818Z",
+      "readIops": 87529.1243,
+      "writeIops": 809.5189,
+      "readThroughput": 1017594154.3896,
+      "writeThroughput": 333349372.5088
+    },
+    {
+      "date": "2024-03-11T18:52:14.818Z",
+      "readIops": 58317.4871,
+      "writeIops": 808.2108,
+      "readThroughput": 420000257.9722,
+      "writeThroughput": 121366501.2432
+    },
+    {
+      "date": "2024-03-12T18:52:14.818Z",
+      "readIops": 43132.6,
+      "writeIops": 831.9721,
+      "readThroughput": 967152538.8588,
+      "writeThroughput": 861501129.0999
+    },
+    {
+      "date": "2024-03-13T18:52:14.818Z",
+      "readIops": 61684.1254,
+      "writeIops": 171.5748,
+      "readThroughput": 251333998.897,
+      "writeThroughput": 11934731.3484
+    },
+    {
+      "date": "2024-03-14T18:52:14.818Z",
+      "readIops": 50504.492,
+      "writeIops": 712.1342,
+      "readThroughput": 242971018.8977,
+      "writeThroughput": 95607013.5225
+    },
+    {
+      "date": "2024-03-15T18:52:14.818Z",
+      "readIops": 18453.7136,
+      "writeIops": 527.4649,
+      "readThroughput": 73485426.0387,
+      "writeThroughput": 82203119.4542
+    },
+    {
+      "date": "2024-03-16T18:52:14.818Z",
+      "readIops": 63548.0993,
+      "writeIops": 419.0475,
+      "readThroughput": 895020599.2503,
+      "writeThroughput": 889387486.4711
+    },
+    {
+      "date": "2024-03-17T18:52:14.818Z",
+      "readIops": 92146.6841,
+      "writeIops": 957.2513,
+      "readThroughput": 666942919.3188,
+      "writeThroughput": 400549020.2132
+    },
+    {
+      "date": "2024-03-18T18:52:14.818Z",
+      "readIops": 12703.5463,
+      "writeIops": 916.5917,
+      "readThroughput": 825682434.9252,
+      "writeThroughput": 84194636.0645
+    },
+    {
+      "date": "2024-03-19T18:52:14.818Z",
+      "readIops": 47971.2255,
+      "writeIops": 449.4424,
+      "readThroughput": 163102585.369,
+      "writeThroughput": 157995161.5589
+    },
+    {
+      "date": "2024-03-20T18:52:14.818Z",
+      "readIops": 46229.7386,
+      "writeIops": 478.9948,
+      "readThroughput": 1060654085.5339,
+      "writeThroughput": 99905761.3112
+    },
+    {
+      "date": "2024-03-21T18:52:14.818Z",
+      "readIops": 60342.868,
+      "writeIops": 660.9069,
+      "readThroughput": 64160722.8517,
+      "writeThroughput": 93411434.2595
+    },
+    {
+      "date": "2024-03-22T18:52:14.818Z",
+      "readIops": 45569.2939,
+      "writeIops": 103.7095,
+      "readThroughput": 809738703.1141,
+      "writeThroughput": 81008668.478
+    },
+    {
+      "date": "2024-03-23T18:52:14.818Z",
+      "readIops": 53049.6227,
+      "writeIops": 330.714,
+      "readThroughput": 298758433.8167,
+      "writeThroughput": 999879099.8594
+    },
+    {
+      "date": "2024-03-24T18:52:14.818Z",
+      "readIops": 87362.8201,
+      "writeIops": 836.9379,
+      "readThroughput": 487647852.3045,
+      "writeThroughput": 877156598.789
+    },
+    {
+      "date": "2024-03-25T18:52:14.818Z",
+      "readIops": 13450.1327,
+      "writeIops": 962.538,
+      "readThroughput": 677420585.1129,
+      "writeThroughput": 560937810.2714
+    },
+    {
+      "date": "2024-03-26T18:52:14.818Z",
+      "readIops": 38201.8126,
+      "writeIops": 996.3877,
+      "readThroughput": 959976850.4809,
+      "writeThroughput": 58509524.2168
+    },
+    {
+      "date": "2024-03-27T18:52:14.818Z",
+      "readIops": 81702.2398,
+      "writeIops": 148.4781,
+      "readThroughput": 369933678.5712,
+      "writeThroughput": 424676099.7546
+    },
+    {
+      "date": "2024-03-28T18:52:14.818Z",
+      "readIops": 68667.3206,
+      "writeIops": 803.5822,
+      "readThroughput": 664149119.5361,
+      "writeThroughput": 734652992.7497
+    },
+    {
+      "date": "2024-03-29T18:52:14.818Z",
+      "readIops": 29179.1776,
+      "writeIops": 641.7556,
+      "readThroughput": 371690519.8963,
+      "writeThroughput": 4663901.3615
+    },
+    {
+      "date": "2024-03-30T18:52:14.818Z",
+      "readIops": 88912.5604,
+      "writeIops": 152.2641,
+      "readThroughput": 449734678.3051,
+      "writeThroughput": 227727184.8775
+    },
+    {
+      "date": "2024-03-31T18:52:14.818Z",
+      "readIops": 99237.562,
+      "writeIops": 573.208,
+      "readThroughput": 1052185046.3218,
+      "writeThroughput": 590765253.4594
+    },
+    {
+      "date": "2024-04-01T18:52:14.818Z",
+      "readIops": 77692.1611,
+      "writeIops": 211.0703,
+      "readThroughput": 615567068.4594,
+      "writeThroughput": 744195033.0882
+    },
+    {
+      "date": "2024-04-02T18:52:14.818Z",
+      "readIops": 21767.9347,
+      "writeIops": 896.1283,
+      "readThroughput": 1004170585.4803,
+      "writeThroughput": 702691383.8073
+    },
+    {
+      "date": "2024-04-03T18:52:14.818Z",
+      "readIops": 93907.219,
+      "writeIops": 319.9094,
+      "readThroughput": 838918764.8002,
+      "writeThroughput": 945506823.1195
+    },
+    {
+      "date": "2024-04-04T18:52:14.818Z",
+      "readIops": 18135.8828,
+      "writeIops": 434.1967,
+      "readThroughput": 431038460.7994,
+      "writeThroughput": 405625642.2907
+    },
+    {
+      "date": "2024-04-05T18:52:14.818Z",
+      "readIops": 21957.9974,
+      "writeIops": 150.5433,
+      "readThroughput": 316510469.9902,
+      "writeThroughput": 996330655.0603
+    },
+    {
+      "date": "2024-04-06T18:52:14.818Z",
+      "readIops": 42512.3427,
+      "writeIops": 595.2482,
+      "readThroughput": 467222818.7336,
+      "writeThroughput": 48759749.6188
+    },
+    {
+      "date": "2024-04-07T18:52:14.818Z",
+      "readIops": 26219.0421,
+      "writeIops": 869.8138,
+      "readThroughput": 495705705.1998,
+      "writeThroughput": 514620800.9002
+    },
+    {
+      "date": "2024-04-08T18:52:14.818Z",
+      "readIops": 29890.4059,
+      "writeIops": 603.98,
+      "readThroughput": 844908186.3797,
+      "writeThroughput": 867462666.0199
+    },
+    {
+      "date": "2024-04-09T18:52:14.818Z",
+      "readIops": 49935.7798,
+      "writeIops": 484.005,
+      "readThroughput": 531142198.9593,
+      "writeThroughput": 267029783.6878
+    },
+    {
+      "date": "2024-04-10T18:52:14.818Z",
+      "readIops": 71140.2027,
+      "writeIops": 816.2925,
+      "readThroughput": 628288163.2112,
+      "writeThroughput": 1008358422.3485
+    },
+    {
+      "date": "2024-04-11T18:52:14.818Z",
+      "readIops": 28452.0458,
+      "writeIops": 237.7798,
+      "readThroughput": 272234022.4662,
+      "writeThroughput": 667772928.2272
+    },
+    {
+      "date": "2024-04-12T18:52:14.818Z",
+      "readIops": 57715.4399,
+      "writeIops": 841.5803,
+      "readThroughput": 1062100832.3101,
+      "writeThroughput": 677527617.6189
+    },
+    {
+      "date": "2024-04-13T18:52:14.818Z",
+      "readIops": 19279.9097,
+      "writeIops": 269.774,
+      "readThroughput": 773108328.6712,
+      "writeThroughput": 597573705.8556
+    },
+    {
+      "date": "2024-04-14T18:52:14.818Z",
+      "readIops": 96150.6759,
+      "writeIops": 706.21,
+      "readThroughput": 287535101.019,
+      "writeThroughput": 310375592.8489
+    },
+    {
+      "date": "2024-04-15T18:52:14.818Z",
+      "readIops": 90571.1975,
+      "writeIops": 261.8498,
+      "readThroughput": 613745379.985,
+      "writeThroughput": 604853589.9348
+    },
+    {
+      "date": "2024-04-16T18:52:14.818Z",
+      "readIops": 79734.4278,
+      "writeIops": 819.4005,
+      "readThroughput": 68240076.3584,
+      "writeThroughput": 482499724.2649
+    },
+    {
+      "date": "2024-04-17T18:52:14.818Z",
+      "readIops": 54916.4879,
+      "writeIops": 444.5341,
+      "readThroughput": 517222214.5092,
+      "writeThroughput": 311344257.0775
+    },
+    {
+      "date": "2024-04-18T18:52:14.818Z",
+      "readIops": 88061.5621,
+      "writeIops": 409.4067,
+      "readThroughput": 688587649.025,
+      "writeThroughput": 140901736.6207
+    },
+    {
+      "date": "2024-04-19T18:52:14.818Z",
+      "readIops": 65726.6914,
+      "writeIops": 149.6117,
+      "readThroughput": 1053371978.2717,
+      "writeThroughput": 290493507.4735
+    },
+    {
+      "date": "2024-04-20T18:52:14.818Z",
+      "readIops": 82698.9841,
+      "writeIops": 775.4444,
+      "readThroughput": 326311274.6841,
+      "writeThroughput": 533732732.8265
+    },
+    {
+      "date": "2024-04-21T18:52:14.818Z",
+      "readIops": 98198.551,
+      "writeIops": 475.7229,
+      "readThroughput": 529961214.281,
+      "writeThroughput": 51392475.4234
+    },
+    {
+      "date": "2024-04-22T18:52:14.818Z",
+      "readIops": 65269.9416,
+      "writeIops": 569.7145,
+      "readThroughput": 979427667.4476,
+      "writeThroughput": 597666103.7789
+    },
+    {
+      "date": "2024-04-23T18:52:14.818Z",
+      "readIops": 18734.3937,
+      "writeIops": 805.2244,
+      "readThroughput": 1018989382.514,
+      "writeThroughput": 534172453.6684
+    },
+    {
+      "date": "2024-04-24T18:52:14.818Z",
+      "readIops": 97216.7196,
+      "writeIops": 862.5141,
+      "readThroughput": 994020146.9854,
+      "writeThroughput": 281659695.272
+    },
+    {
+      "date": "2024-04-25T18:52:14.818Z",
+      "readIops": 18810.2703,
+      "writeIops": 319.8213,
+      "readThroughput": 340353015.0695,
+      "writeThroughput": 600980019.8804
+    },
+    {
+      "date": "2024-04-26T18:52:14.818Z",
+      "readIops": 76061.2888,
+      "writeIops": 683.0214,
+      "readThroughput": 954924144.9957,
+      "writeThroughput": 80910173.5233
+    },
+    {
+      "date": "2024-04-27T18:52:14.818Z",
+      "readIops": 15338.8834,
+      "writeIops": 659.5906,
+      "readThroughput": 98673893.7504,
+      "writeThroughput": 53288847.29
+    },
+    {
+      "date": "2024-04-28T18:52:14.818Z",
+      "readIops": 80532.2783,
+      "writeIops": 346.3515,
+      "readThroughput": 547820412.1598,
+      "writeThroughput": 371126636.8915
+    },
+    {
+      "date": "2024-04-29T18:52:14.818Z",
+      "readIops": 21109.0743,
+      "writeIops": 586.1304,
+      "readThroughput": 79295992.0617,
+      "writeThroughput": 840720135.4164
+    },
+    {
+      "date": "2024-04-30T18:52:14.818Z",
+      "readIops": 42757.0159,
+      "writeIops": 675.633,
+      "readThroughput": 852831598.3546,
+      "writeThroughput": 996822796.9129
+    },
+    {
+      "date": "2024-05-01T18:52:14.818Z",
+      "readIops": 25329.2435,
+      "writeIops": 911.9705,
+      "readThroughput": 119924086.7292,
+      "writeThroughput": 1051904278.1361
+    },
+    {
+      "date": "2024-05-02T18:52:14.818Z",
+      "readIops": 44295.9532,
+      "writeIops": 188.2937,
+      "readThroughput": 439754469.1694,
+      "writeThroughput": 825357384.1524
+    },
+    {
+      "date": "2024-05-03T18:52:14.818Z",
+      "readIops": 22385.0739,
+      "writeIops": 641.6943,
+      "readThroughput": 621384646.4969,
+      "writeThroughput": 858062255.8024
+    },
+    {
+      "date": "2024-05-04T18:52:14.818Z",
+      "readIops": 91374.9036,
+      "writeIops": 687.5671,
+      "readThroughput": 849744539.8151,
+      "writeThroughput": 559351647.5297
+    },
+    {
+      "date": "2024-05-05T18:52:14.818Z",
+      "readIops": 40742.2362,
+      "writeIops": 857.0641,
+      "readThroughput": 445938892.3693,
+      "writeThroughput": 951414181.4604
+    },
+    {
+      "date": "2024-05-06T18:52:14.818Z",
+      "readIops": 48468.3801,
+      "writeIops": 425.0274,
+      "readThroughput": 125164831.1561,
+      "writeThroughput": 47111672.428
+    },
+    {
+      "date": "2024-05-07T18:52:14.818Z",
+      "readIops": 79717.2193,
+      "writeIops": 433.3509,
+      "readThroughput": 550024449.8393,
+      "writeThroughput": 981886580.4733
+    },
+    {
+      "date": "2024-05-08T18:52:14.818Z",
+      "readIops": 79227.6932,
+      "writeIops": 620.5266,
+      "readThroughput": 520491174.6015,
+      "writeThroughput": 370382327.2964
+    },
+    {
+      "date": "2024-05-09T18:52:14.818Z",
+      "readIops": 77978.1509,
+      "writeIops": 534.2476,
+      "readThroughput": 163715250.9301,
+      "writeThroughput": 799570551.3037
+    },
+    {
+      "date": "2024-05-10T18:52:14.818Z",
+      "readIops": 81607.828,
+      "writeIops": 460.7823,
+      "readThroughput": 759847480.1104,
+      "writeThroughput": 731479046.0023
+    },
+    {
+      "date": "2024-05-11T18:52:14.818Z",
+      "readIops": 36118.9685,
+      "writeIops": 288.7398,
+      "readThroughput": 90811870.61,
+      "writeThroughput": 214924220.8363
+    },
+    {
+      "date": "2024-05-12T18:52:14.818Z",
+      "readIops": 16215.5389,
+      "writeIops": 163.754,
+      "readThroughput": 844965184.4518,
+      "writeThroughput": 916111127.7997
+    },
+    {
+      "date": "2024-05-13T18:52:14.818Z",
+      "readIops": 53468.2914,
+      "writeIops": 935.1873,
+      "readThroughput": 880037213.4994,
+      "writeThroughput": 850090577.5437
+    },
+    {
+      "date": "2024-05-14T18:52:14.818Z",
+      "readIops": 90471.5597,
+      "writeIops": 765.8185,
+      "readThroughput": 702181602.4693,
+      "writeThroughput": 173486196.3818
+    },
+    {
+      "date": "2024-05-15T18:52:14.818Z",
+      "readIops": 83607.3188,
+      "writeIops": 597.3298,
+      "readThroughput": 137139643.645,
+      "writeThroughput": 170655904.1198
+    },
+    {
+      "date": "2024-05-16T18:52:14.818Z",
+      "readIops": 31448.1893,
+      "writeIops": 766.2331,
+      "readThroughput": 339004453.1745,
+      "writeThroughput": 236175113.5415
+    },
+    {
+      "date": "2024-05-17T18:52:14.818Z",
+      "readIops": 45921.7745,
+      "writeIops": 975.3541,
+      "readThroughput": 944917307.5361,
+      "writeThroughput": 567966514.3071
+    },
+    {
+      "date": "2024-05-18T18:52:14.818Z",
+      "readIops": 44988.5907,
+      "writeIops": 688.1164,
+      "readThroughput": 39563841.1239,
+      "writeThroughput": 820509097.126
+    },
+    {
+      "date": "2024-05-19T18:52:14.818Z",
+      "readIops": 26150.9205,
+      "writeIops": 653.3942,
+      "readThroughput": 74949769.2308,
+      "writeThroughput": 395634032.5116
+    },
+    {
+      "date": "2024-05-20T18:52:14.818Z",
+      "readIops": 58401.618,
+      "writeIops": 475.7194,
+      "readThroughput": 178352059.058,
+      "writeThroughput": 882745088.0587
+    },
+    {
+      "date": "2024-05-21T18:52:14.818Z",
+      "readIops": 88671.8421,
+      "writeIops": 698.0535,
+      "readThroughput": 771437570.126,
+      "writeThroughput": 224747838.0717
+    },
+    {
+      "date": "2024-05-22T18:52:14.818Z",
+      "readIops": 84860.4894,
+      "writeIops": 559.5135,
+      "readThroughput": 411053586.5518,
+      "writeThroughput": 112866065.6495
+    },
+    {
+      "date": "2024-05-23T18:52:14.818Z",
+      "readIops": 60473.4012,
+      "writeIops": 348.6984,
+      "readThroughput": 514173551.9904,
+      "writeThroughput": 471552740.8693
+    },
+    {
+      "date": "2024-05-24T18:52:14.818Z",
+      "readIops": 39259.3958,
+      "writeIops": 945.8446,
+      "readThroughput": 674857342.6693,
+      "writeThroughput": 142971952.9903
+    },
+    {
+      "date": "2024-05-25T18:52:14.818Z",
+      "readIops": 91889.852,
+      "writeIops": 365.9188,
+      "readThroughput": 596533726.3838,
+      "writeThroughput": 941729169.3307
+    },
+    {
+      "date": "2024-05-26T18:52:14.818Z",
+      "readIops": 66199.649,
+      "writeIops": 754.5312,
+      "readThroughput": 288978717.2155,
+      "writeThroughput": 786271669.7567
+    },
+    {
+      "date": "2024-05-27T18:52:14.818Z",
+      "readIops": 71018.7243,
+      "writeIops": 320.1443,
+      "readThroughput": 73012475.6382,
+      "writeThroughput": 985619511.4801
+    },
+    {
+      "date": "2024-05-28T18:52:14.818Z",
+      "readIops": 80822.5832,
+      "writeIops": 565.4335,
+      "readThroughput": 634908816.2501,
+      "writeThroughput": 726948394.6182
+    },
+    {
+      "date": "2024-05-29T18:52:14.818Z",
+      "readIops": 50943.2265,
+      "writeIops": 144.9124,
+      "readThroughput": 70994032.5468,
+      "writeThroughput": 435052063.2931
+    },
+    {
+      "date": "2024-05-30T18:52:14.818Z",
+      "readIops": 80594.2043,
+      "writeIops": 124.5031,
+      "readThroughput": 396272078.6104,
+      "writeThroughput": 639221631.4335
+    },
+    {
+      "date": "2024-05-31T18:52:14.818Z",
+      "readIops": 56577.9571,
+      "writeIops": 471.0374,
+      "readThroughput": 963056622.664,
+      "writeThroughput": 624893113.0958
+    },
+    {
+      "date": "2024-06-01T18:52:14.818Z",
+      "readIops": 91252.0183,
+      "writeIops": 810.3967,
+      "readThroughput": 647516914.7965,
+      "writeThroughput": 676306548.3076
+    },
+    {
+      "date": "2024-06-02T18:52:14.818Z",
+      "readIops": 39663.4339,
+      "writeIops": 450.6883,
+      "readThroughput": 609054991.0199,
+      "writeThroughput": 560550693.5976
+    },
+    {
+      "date": "2024-06-03T18:52:14.818Z",
+      "readIops": 77211.6912,
+      "writeIops": 519.6713,
+      "readThroughput": 945836815.8308,
+      "writeThroughput": 976682140.4837
+    },
+    {
+      "date": "2024-06-04T18:52:14.818Z",
+      "readIops": 45916.8755,
+      "writeIops": 363.3541,
+      "readThroughput": 588052128.212,
+      "writeThroughput": 587113079.1988
+    },
+    {
+      "date": "2024-06-05T18:52:14.818Z",
+      "readIops": 22213.9446,
+      "writeIops": 571.5546,
+      "readThroughput": 213993599.919,
+      "writeThroughput": 282121582.4136
+    },
+    {
+      "date": "2024-06-06T18:52:14.818Z",
+      "readIops": 32127.305,
+      "writeIops": 710.0142,
+      "readThroughput": 88528878.8595,
+      "writeThroughput": 775103773.6906
+    },
+    {
+      "date": "2024-06-07T18:52:14.818Z",
+      "readIops": 86647.0566,
+      "writeIops": 108.7711,
+      "readThroughput": 658746159.1128,
+      "writeThroughput": 479872813.3545
+    },
+    {
+      "date": "2024-06-08T18:52:14.818Z",
+      "readIops": 16584.2544,
+      "writeIops": 333.7981,
+      "readThroughput": 924974293.1083,
+      "writeThroughput": 822207261.6492
+    },
+    {
+      "date": "2024-06-09T18:52:14.818Z",
+      "readIops": 82600.9053,
+      "writeIops": 647.6062,
+      "readThroughput": 679205491.2327,
+      "writeThroughput": 128076440.2994
+    },
+    {
+      "date": "2024-06-10T18:52:14.818Z",
+      "readIops": 81570.697,
+      "writeIops": 916.1195,
+      "readThroughput": 809487342.4212,
+      "writeThroughput": 156847729.4365
+    },
+    {
+      "date": "2024-06-11T18:52:14.818Z",
+      "readIops": 31888.9698,
+      "writeIops": 421.1497,
+      "readThroughput": 679759195.887,
+      "writeThroughput": 837403009.6376
+    },
+    {
+      "date": "2024-06-12T18:52:14.818Z",
+      "readIops": 11979.2275,
+      "writeIops": 395.7012,
+      "readThroughput": 284085882.3525,
+      "writeThroughput": 218192321.9364
+    },
+    {
+      "date": "2024-06-13T18:52:14.818Z",
+      "readIops": 89255.4311,
+      "writeIops": 637.5811,
+      "readThroughput": 864029988.6014,
+      "writeThroughput": 931520332.9969
+    },
+    {
+      "date": "2024-06-14T18:52:14.818Z",
+      "readIops": 17687.1362,
+      "writeIops": 690.8829,
+      "readThroughput": 936329397.3915,
+      "writeThroughput": 646799118.3189
+    },
+    {
+      "date": "2024-06-15T18:52:14.818Z",
+      "readIops": 29303.4769,
+      "writeIops": 559.6285,
+      "readThroughput": 951381792.8407,
+      "writeThroughput": 1070241875.9689
+    },
+    {
+      "date": "2024-06-16T18:52:14.818Z",
+      "readIops": 42556.409,
+      "writeIops": 412.6972,
+      "readThroughput": 969213398.3371,
+      "writeThroughput": 1046097470.6136
+    },
+    {
+      "date": "2024-06-17T18:52:14.818Z",
+      "readIops": 62071.4178,
+      "writeIops": 531.1828,
+      "readThroughput": 740911085.1593,
+      "writeThroughput": 249129355.343
+    },
+    {
+      "date": "2024-06-18T18:52:14.818Z",
+      "readIops": 44649.4081,
+      "writeIops": 636.0981,
+      "readThroughput": 204539682.2362,
+      "writeThroughput": 454487985.4329
+    },
+    {
+      "date": "2024-06-19T18:52:14.818Z",
+      "readIops": 67815.9055,
+      "writeIops": 183.9945,
+      "readThroughput": 651173544.0059,
+      "writeThroughput": 310488635.5028
+    },
+    {
+      "date": "2024-06-20T18:52:14.818Z",
+      "readIops": 97985.1049,
+      "writeIops": 636.232,
+      "readThroughput": 106694488.1996,
+      "writeThroughput": 215571979.9015
+    },
+    {
+      "date": "2024-06-21T18:52:14.818Z",
+      "readIops": 17915.2121,
+      "writeIops": 574.0409,
+      "readThroughput": 92372971.1505,
+      "writeThroughput": 14395708.1561
+    },
+    {
+      "date": "2024-06-22T18:52:14.818Z",
+      "readIops": 33272.9948,
+      "writeIops": 680.49,
+      "readThroughput": 168702918.8166,
+      "writeThroughput": 992511487.1562
+    },
+    {
+      "date": "2024-06-23T18:52:14.818Z",
+      "readIops": 95273.4672,
+      "writeIops": 261.2882,
+      "readThroughput": 830607861.345,
+      "writeThroughput": 270615891.8874
+    },
+    {
+      "date": "2024-06-24T18:52:14.818Z",
+      "readIops": 98995.5179,
+      "writeIops": 274.5696,
+      "readThroughput": 342649608.1424,
+      "writeThroughput": 737136937.5292
+    },
+    {
+      "date": "2024-06-25T18:52:14.818Z",
+      "readIops": 47764.49,
+      "writeIops": 767.3859,
+      "readThroughput": 244147981.6623,
+      "writeThroughput": 20341678.2324
+    },
+    {
+      "date": "2024-06-26T18:52:14.818Z",
+      "readIops": 37846.216,
+      "writeIops": 951.5996,
+      "readThroughput": 146370244.5058,
+      "writeThroughput": 906568100.7637
+    },
+    {
+      "date": "2024-06-27T18:52:14.818Z",
+      "readIops": 55196.5038,
+      "writeIops": 290.2547,
+      "readThroughput": 41306552.2943,
+      "writeThroughput": 239128479.5631
+    },
+    {
+      "date": "2024-06-28T18:52:14.818Z",
+      "readIops": 76820.9028,
+      "writeIops": 884.2569,
+      "readThroughput": 5788586.6806,
+      "writeThroughput": 281838530.1071
+    },
+    {
+      "date": "2024-06-29T18:52:14.818Z",
+      "readIops": 67897.3474,
+      "writeIops": 297.9335,
+      "readThroughput": 894010321.1226,
+      "writeThroughput": 471010957.825
+    },
+    {
+      "date": "2024-06-30T18:52:14.818Z",
+      "readIops": 26467.3852,
+      "writeIops": 303.1453,
+      "readThroughput": 536966731.9607,
+      "writeThroughput": 613190861.7856
+    },
+    {
+      "date": "2024-07-01T18:52:14.818Z",
+      "readIops": 21348.4714,
+      "writeIops": 890.6105,
+      "readThroughput": 232947485.649,
+      "writeThroughput": 277250754.5766
+    },
+    {
+      "date": "2024-07-02T18:52:14.818Z",
+      "readIops": 33439.7733,
+      "writeIops": 693.7342,
+      "readThroughput": 978648285.1578,
+      "writeThroughput": 55974769.1282
+    },
+    {
+      "date": "2024-07-03T18:52:14.818Z",
+      "readIops": 87649.3575,
+      "writeIops": 811.7981,
+      "readThroughput": 280240543.2407,
+      "writeThroughput": 342518054.1967
+    },
+    {
+      "date": "2024-07-04T18:52:14.818Z",
+      "readIops": 53563.0806,
+      "writeIops": 397.6393,
+      "readThroughput": 385332939.186,
+      "writeThroughput": 58656073.3897
+    },
+    {
+      "date": "2024-07-05T18:52:14.818Z",
+      "readIops": 47300.979,
+      "writeIops": 957.8008,
+      "readThroughput": 418652398.2393,
+      "writeThroughput": 442023511.5181
+    },
+    {
+      "date": "2024-07-06T18:52:14.818Z",
+      "readIops": 37637.5382,
+      "writeIops": 441.6379,
+      "readThroughput": 654744554.0294,
+      "writeThroughput": 360999421.6369
+    },
+    {
+      "date": "2024-07-07T18:52:14.818Z",
+      "readIops": 95794.4062,
+      "writeIops": 248.3903,
+      "readThroughput": 984143344.6766,
+      "writeThroughput": 749987694.6303
+    },
+    {
+      "date": "2024-07-08T18:52:14.818Z",
+      "readIops": 58756.9361,
+      "writeIops": 959.067,
+      "readThroughput": 1037743848.1055,
+      "writeThroughput": 797826534.3902
+    },
+    {
+      "date": "2024-07-09T18:52:14.818Z",
+      "readIops": 19663.6914,
+      "writeIops": 619.243,
+      "readThroughput": 828255121.7416,
+      "writeThroughput": 1069550425.8892
+    },
+    {
+      "date": "2024-07-10T18:52:14.818Z",
+      "readIops": 62126.4221,
+      "writeIops": 785.6805,
+      "readThroughput": 810970694.3954,
+      "writeThroughput": 310082686.4425
+    },
+    {
+      "date": "2024-07-11T18:52:14.818Z",
+      "readIops": 88263.29,
+      "writeIops": 900.7392,
+      "readThroughput": 784589527.6561,
+      "writeThroughput": 427025543.6632
+    },
+    {
+      "date": "2024-07-12T18:52:14.818Z",
+      "readIops": 68657.0301,
+      "writeIops": 244.2571,
+      "readThroughput": 611845448.1638,
+      "writeThroughput": 547355539.8078
+    },
+    {
+      "date": "2024-07-13T18:52:14.818Z",
+      "readIops": 97298.3495,
+      "writeIops": 996.1239,
+      "readThroughput": 349173982.0984,
+      "writeThroughput": 732330439.9098
+    },
+    {
+      "date": "2024-07-14T18:52:14.818Z",
+      "readIops": 50592.3212,
+      "writeIops": 999.3556,
+      "readThroughput": 648410273.3276,
+      "writeThroughput": 260697781.3127
+    },
+    {
+      "date": "2024-07-15T18:52:14.818Z",
+      "readIops": 26333.5858,
+      "writeIops": 313.9284,
+      "readThroughput": 36510826.2631,
+      "writeThroughput": 1061280113.5815
+    },
+    {
+      "date": "2024-07-16T18:52:14.818Z",
+      "readIops": 98109.6119,
+      "writeIops": 857.6995,
+      "readThroughput": 997536170.0075,
+      "writeThroughput": 133502099.5682
+    },
+    {
+      "date": "2024-07-17T18:52:14.818Z",
+      "readIops": 59507.4576,
+      "writeIops": 787.0347,
+      "readThroughput": 463250903.5415,
+      "writeThroughput": 686148345.5462
+    },
+    {
+      "date": "2024-07-18T18:52:14.818Z",
+      "readIops": 72824.1533,
+      "writeIops": 981.8895,
+      "readThroughput": 820556856.1129,
+      "writeThroughput": 804174533.2056
+    },
+    {
+      "date": "2024-07-19T18:52:14.818Z",
+      "readIops": 70334.5252,
+      "writeIops": 735.7674,
+      "readThroughput": 872949800.0104,
+      "writeThroughput": 850033197.3214
+    },
+    {
+      "date": "2024-07-20T18:52:14.818Z",
+      "readIops": 10306.2343,
+      "writeIops": 746.1523,
+      "readThroughput": 418663131.5067,
+      "writeThroughput": 772794325.7993
+    },
+    {
+      "date": "2024-07-21T18:52:14.818Z",
+      "readIops": 64119.4812,
+      "writeIops": 714.7902,
+      "readThroughput": 291179299.7126,
+      "writeThroughput": 121005704.4215
+    },
+    {
+      "date": "2024-07-22T18:52:14.818Z",
+      "readIops": 51949.9012,
+      "writeIops": 878.0177,
+      "readThroughput": 729852362.6963,
+      "writeThroughput": 616931364.398
+    },
+    {
+      "date": "2024-07-23T18:52:14.818Z",
+      "readIops": 33571.4834,
+      "writeIops": 649.4879,
+      "readThroughput": 560521111.412,
+      "writeThroughput": 36031334.4069
+    },
+    {
+      "date": "2024-07-24T18:52:14.818Z",
+      "readIops": 37957.5096,
+      "writeIops": 962.2623,
+      "readThroughput": 997190261.6801,
+      "writeThroughput": 990646346.5664
+    },
+    {
+      "date": "2024-07-25T18:52:14.818Z",
+      "readIops": 93224.3208,
+      "writeIops": 105.7218,
+      "readThroughput": 632804194.9865,
+      "writeThroughput": 330311858.1719
+    },
+    {
+      "date": "2024-07-26T18:52:14.818Z",
+      "readIops": 67356.2447,
+      "writeIops": 869.8252,
+      "readThroughput": 112958661.9802,
+      "writeThroughput": 901598256.4538
+    },
+    {
+      "date": "2024-07-27T18:52:14.818Z",
+      "readIops": 27380.0599,
+      "writeIops": 678.4208,
+      "readThroughput": 681529490.4707,
+      "writeThroughput": 159753848.2591
+    },
+    {
+      "date": "2024-07-28T18:52:14.818Z",
+      "readIops": 10372.3713,
+      "writeIops": 743.7042,
+      "readThroughput": 512913021.5134,
+      "writeThroughput": 684332203.243
+    },
+    {
+      "date": "2024-07-29T18:52:14.818Z",
+      "readIops": 38166.5049,
+      "writeIops": 484.5998,
+      "readThroughput": 579753907.2744,
+      "writeThroughput": 1006046661.7474
+    },
+    {
+      "date": "2024-07-30T18:52:14.818Z",
+      "readIops": 15644.7138,
+      "writeIops": 466.9084,
+      "readThroughput": 575163860.7402,
+      "writeThroughput": 91284515.4046
+    },
+    {
+      "date": "2024-07-31T18:52:14.818Z",
+      "readIops": 63596.244,
+      "writeIops": 694.0887,
+      "readThroughput": 1044544257.5802,
+      "writeThroughput": 771534483.9405
+    },
+    {
+      "date": "2024-08-01T18:52:14.818Z",
+      "readIops": 81676.0977,
+      "writeIops": 803.106,
+      "readThroughput": 376747075.9573,
+      "writeThroughput": 721677673.4966
+    },
+    {
+      "date": "2024-08-02T18:52:14.818Z",
+      "readIops": 62615.8469,
+      "writeIops": 539.1084,
+      "readThroughput": 712802937.2518,
+      "writeThroughput": 962461699.2157
+    },
+    {
+      "date": "2024-08-03T18:52:14.818Z",
+      "readIops": 97961.4644,
+      "writeIops": 766.8914,
+      "readThroughput": 804022270.0745,
+      "writeThroughput": 857269174.4375
+    },
+    {
+      "date": "2024-08-04T18:52:14.818Z",
+      "readIops": 88196.1856,
+      "writeIops": 595.6308,
+      "readThroughput": 981705652.985,
+      "writeThroughput": 766145422.2438
+    },
+    {
+      "date": "2024-08-05T18:52:14.818Z",
+      "readIops": 46130.699,
+      "writeIops": 381.7175,
+      "readThroughput": 994742842.1677,
+      "writeThroughput": 425704406.6461
+    },
+    {
+      "date": "2024-08-06T18:52:14.818Z",
+      "readIops": 36892.501,
+      "writeIops": 400.6286,
+      "readThroughput": 885921689.3308,
+      "writeThroughput": 720321768.2343
+    },
+    {
+      "date": "2024-08-07T18:52:14.818Z",
+      "readIops": 56089.1591,
+      "writeIops": 774.3586,
+      "readThroughput": 905264919.0714,
+      "writeThroughput": 757874460.2951
+    },
+    {
+      "date": "2024-08-08T18:52:14.818Z",
+      "readIops": 96333.1047,
+      "writeIops": 291.6795,
+      "readThroughput": 585305846.6515,
+      "writeThroughput": 629206718.0485
+    },
+    {
+      "date": "2024-08-09T18:52:14.818Z",
+      "readIops": 81408.5776,
+      "writeIops": 672.5759,
+      "readThroughput": 1054393564.7478,
+      "writeThroughput": 665401577.5951
+    },
+    {
+      "date": "2024-08-10T18:52:14.818Z",
+      "readIops": 47653.3765,
+      "writeIops": 868.1308,
+      "readThroughput": 836966302.047,
+      "writeThroughput": 492015199.6114
+    },
+    {
+      "date": "2024-08-11T18:52:14.818Z",
+      "readIops": 33784.8526,
+      "writeIops": 520.2587,
+      "readThroughput": 214463799.1954,
+      "writeThroughput": 865010957.1634
+    },
+    {
+      "date": "2024-08-12T18:52:14.818Z",
+      "readIops": 66581.6323,
+      "writeIops": 743.5947,
+      "readThroughput": 875661985.2945,
+      "writeThroughput": 678937052.1639
+    },
+    {
+      "date": "2024-08-13T18:52:14.818Z",
+      "readIops": 51066.648,
+      "writeIops": 350.2959,
+      "readThroughput": 989514941.2877,
+      "writeThroughput": 59045785.1387
+    },
+    {
+      "date": "2024-08-14T18:52:14.818Z",
+      "readIops": 21416.3696,
+      "writeIops": 952.7739,
+      "readThroughput": 397310923.625,
+      "writeThroughput": 995797739.8897
+    },
+    {
+      "date": "2024-08-15T18:52:14.818Z",
+      "readIops": 10050.3043,
+      "writeIops": 627.7153,
+      "readThroughput": 29785772.1971,
+      "writeThroughput": 105349599.691
+    },
+    {
+      "date": "2024-08-16T18:52:14.818Z",
+      "readIops": 28955.4734,
+      "writeIops": 329.7819,
+      "readThroughput": 986665763.734,
+      "writeThroughput": 690039542.0184
+    },
+    {
+      "date": "2024-08-17T18:52:14.818Z",
+      "readIops": 22432.5261,
+      "writeIops": 104.7933,
+      "readThroughput": 383488463.3499,
+      "writeThroughput": 1042938607.6385
+    },
+    {
+      "date": "2024-08-18T18:52:14.818Z",
+      "readIops": 36387.2816,
+      "writeIops": 433.7548,
+      "readThroughput": 58697428.1386,
+      "writeThroughput": 726063435.2694
+    },
+    {
+      "date": "2024-08-19T18:52:14.818Z",
+      "readIops": 55277.8353,
+      "writeIops": 245.4264,
+      "readThroughput": 675669888.5111,
+      "writeThroughput": 392705652.8115
+    },
+    {
+      "date": "2024-08-20T18:52:14.818Z",
+      "readIops": 16476.0347,
+      "writeIops": 735.3408,
+      "readThroughput": 974715014.6912,
+      "writeThroughput": 856457368.4738
+    },
+    {
+      "date": "2024-08-21T18:52:14.818Z",
+      "readIops": 90380.6839,
+      "writeIops": 363.5975,
+      "readThroughput": 726631757.4096,
+      "writeThroughput": 217483802.855
+    },
+    {
+      "date": "2024-08-22T18:52:14.818Z",
+      "readIops": 24057.8729,
+      "writeIops": 967.4237,
+      "readThroughput": 468684192.9517,
+      "writeThroughput": 308911170.0078
+    },
+    {
+      "date": "2024-08-23T18:52:14.818Z",
+      "readIops": 69570.9992,
+      "writeIops": 761.9692,
+      "readThroughput": 336079714.3535,
+      "writeThroughput": 528726097.458
+    },
+    {
+      "date": "2024-08-24T18:52:14.818Z",
+      "readIops": 50392.5911,
+      "writeIops": 293.4896,
+      "readThroughput": 1066906597.3627,
+      "writeThroughput": 64088613.9728
+    },
+    {
+      "date": "2024-08-25T18:52:14.818Z",
+      "readIops": 54523.9998,
+      "writeIops": 511.5917,
+      "readThroughput": 882585508.0506,
+      "writeThroughput": 718477529.5765
+    },
+    {
+      "date": "2024-08-26T18:52:14.818Z",
+      "readIops": 63693.9501,
+      "writeIops": 385.7448,
+      "readThroughput": 414197706.9958,
+      "writeThroughput": 499183558.6656
+    },
+    {
+      "date": "2024-08-27T18:52:14.818Z",
+      "readIops": 73953.311,
+      "writeIops": 890.6449,
+      "readThroughput": 660639854.8586,
+      "writeThroughput": 166307982.9301
+    },
+    {
+      "date": "2024-08-28T18:52:14.818Z",
+      "readIops": 88926.8901,
+      "writeIops": 298.3603,
+      "readThroughput": 142344052.8902,
+      "writeThroughput": 466493822.9185
+    },
+    {
+      "date": "2024-08-29T18:52:14.818Z",
+      "readIops": 26869.7791,
+      "writeIops": 832.0194,
+      "readThroughput": 816057109.1724,
+      "writeThroughput": 948161136.9724
+    },
+    {
+      "date": "2024-08-30T18:52:14.818Z",
+      "readIops": 99081.46,
+      "writeIops": 509.799,
+      "readThroughput": 611699525.2801,
+      "writeThroughput": 1005056327.862
+    },
+    {
+      "date": "2024-08-31T18:52:14.818Z",
+      "readIops": 13760.7302,
+      "writeIops": 709.0894,
+      "readThroughput": 46776873.8493,
+      "writeThroughput": 402127485.7397
+    },
+    {
+      "date": "2024-09-01T18:52:14.818Z",
+      "readIops": 11032.2142,
+      "writeIops": 882.8585,
+      "readThroughput": 601676140.3565,
+      "writeThroughput": 433533694.2077
+    },
+    {
+      "date": "2024-09-02T18:52:14.818Z",
+      "readIops": 13335.2505,
+      "writeIops": 964.7969,
+      "readThroughput": 561811237.4623,
+      "writeThroughput": 383555880.3141
+    },
+    {
+      "date": "2024-09-03T18:52:14.818Z",
+      "readIops": 31520.9174,
+      "writeIops": 694.4998,
+      "readThroughput": 1007385842.2214,
+      "writeThroughput": 419167502.0637
+    },
+    {
+      "date": "2024-09-04T18:52:14.818Z",
+      "readIops": 59939.3643,
+      "writeIops": 641.7075,
+      "readThroughput": 842878795.415,
+      "writeThroughput": 904084837.3507
+    },
+    {
+      "date": "2024-09-05T18:52:14.818Z",
+      "readIops": 99208.2404,
+      "writeIops": 557.5566,
+      "readThroughput": 124396602.5796,
+      "writeThroughput": 954381104.7285
+    },
+    {
+      "date": "2024-09-06T18:52:14.818Z",
+      "readIops": 70163.0461,
+      "writeIops": 482.365,
+      "readThroughput": 172729426.8354,
+      "writeThroughput": 744151221.2791
+    },
+    {
+      "date": "2024-09-07T18:52:14.818Z",
+      "readIops": 27536.6652,
+      "writeIops": 614.4596,
+      "readThroughput": 886829931.5081,
+      "writeThroughput": 261399366.6587
+    },
+    {
+      "date": "2024-09-08T18:52:14.818Z",
+      "readIops": 17387.8869,
+      "writeIops": 988.4139,
+      "readThroughput": 929145508.8592,
+      "writeThroughput": 844004175.9029
+    },
+    {
+      "date": "2024-09-09T18:52:14.818Z",
+      "readIops": 91475.1238,
+      "writeIops": 398.9363,
+      "readThroughput": 686931706.0331,
+      "writeThroughput": 57746758.4946
+    },
+    {
+      "date": "2024-09-10T18:52:14.818Z",
+      "readIops": 32500.997,
+      "writeIops": 144.3615,
+      "readThroughput": 916317666.4405,
+      "writeThroughput": 419933385.3946
+    },
+    {
+      "date": "2024-09-11T18:52:14.818Z",
+      "readIops": 94493.7179,
+      "writeIops": 368.4363,
+      "readThroughput": 176849698.5812,
+      "writeThroughput": 603713333.6226
+    },
+    {
+      "date": "2024-09-12T18:52:14.818Z",
+      "readIops": 22379.9345,
+      "writeIops": 741.5961,
+      "readThroughput": 32664874.1312,
+      "writeThroughput": 380304907.2255
+    },
+    {
+      "date": "2024-09-13T18:52:14.818Z",
+      "readIops": 52939.6896,
+      "writeIops": 227.7516,
+      "readThroughput": 1045368943.6752,
+      "writeThroughput": 338896643.9438
+    },
+    {
+      "date": "2024-09-14T18:52:14.818Z",
+      "readIops": 68977.4531,
+      "writeIops": 606.0706,
+      "readThroughput": 68486106.9483,
+      "writeThroughput": 546735238.0958
+    },
+    {
+      "date": "2024-09-15T18:52:14.818Z",
+      "readIops": 95315.5045,
+      "writeIops": 374.5131,
+      "readThroughput": 983243138.6392,
+      "writeThroughput": 6762060.5076
+    },
+    {
+      "date": "2024-09-16T18:52:14.818Z",
+      "readIops": 41989.8989,
+      "writeIops": 530.7415,
+      "readThroughput": 996565937.4711,
+      "writeThroughput": 511288976.3637
+    },
+    {
+      "date": "2024-09-17T18:52:14.818Z",
+      "readIops": 84118.5897,
+      "writeIops": 573.9286,
+      "readThroughput": 894517996.4279,
+      "writeThroughput": 59804789.9157
+    },
+    {
+      "date": "2024-09-18T18:52:14.818Z",
+      "readIops": 30603.0547,
+      "writeIops": 976.3863,
+      "readThroughput": 325907344.6853,
+      "writeThroughput": 908660948.466
+    },
+    {
+      "date": "2024-09-19T18:52:14.818Z",
+      "readIops": 33659.8069,
+      "writeIops": 128.9203,
+      "readThroughput": 566143179.3925,
+      "writeThroughput": 896924503.0024
+    },
+    {
+      "date": "2024-09-20T18:52:14.818Z",
+      "readIops": 61948.8821,
+      "writeIops": 480.5531,
+      "readThroughput": 689328925.0639,
+      "writeThroughput": 642294980.6924
+    },
+    {
+      "date": "2024-09-21T18:52:14.818Z",
+      "readIops": 50349.8212,
+      "writeIops": 804.3516,
+      "readThroughput": 555456782.2666,
+      "writeThroughput": 77639269.3851
+    },
+    {
+      "date": "2024-09-22T18:52:14.818Z",
+      "readIops": 76414.4259,
+      "writeIops": 891.4317,
+      "readThroughput": 1073629650.1357,
+      "writeThroughput": 967382242.4647
+    },
+    {
+      "date": "2024-09-23T18:52:14.818Z",
+      "readIops": 50722.2566,
+      "writeIops": 148.8594,
+      "readThroughput": 635844119.0329,
+      "writeThroughput": 616052665.3683
+    },
+    {
+      "date": "2024-09-24T18:52:14.818Z",
+      "readIops": 16300.1772,
+      "writeIops": 380.2145,
+      "readThroughput": 737205306.4387,
+      "writeThroughput": 547167271.6983
+    },
+    {
+      "date": "2024-09-25T18:52:14.818Z",
+      "readIops": 24858.9984,
+      "writeIops": 805.4979,
+      "readThroughput": 23681885.0829,
+      "writeThroughput": 795786050.1705
+    },
+    {
+      "date": "2024-09-26T18:52:14.818Z",
+      "readIops": 81699.1318,
+      "writeIops": 942.666,
+      "readThroughput": 831325401.1888,
+      "writeThroughput": 275928109.2612
+    },
+    {
+      "date": "2024-09-27T18:52:14.818Z",
+      "readIops": 58057.8584,
+      "writeIops": 458.2216,
+      "readThroughput": 188364973.4103,
+      "writeThroughput": 452819170.0682
+    },
+    {
+      "date": "2024-09-28T18:52:14.818Z",
+      "readIops": 67853.1551,
+      "writeIops": 805.7611,
+      "readThroughput": 276038415.9458,
+      "writeThroughput": 376657025.4616
+    },
+    {
+      "date": "2024-09-29T18:52:14.818Z",
+      "readIops": 70722.2049,
+      "writeIops": 989.1925,
+      "readThroughput": 85528144.6113,
+      "writeThroughput": 700495500.3807
+    },
+    {
+      "date": "2024-09-30T18:52:14.818Z",
+      "readIops": 38667.2449,
+      "writeIops": 309.892,
+      "readThroughput": 278455818.8811,
+      "writeThroughput": 195560689.4013
+    },
+    {
+      "date": "2024-10-01T18:52:14.818Z",
+      "readIops": 58056.3438,
+      "writeIops": 565.4684,
+      "readThroughput": 659843284.1019,
+      "writeThroughput": 241738153.9785
+    },
+    {
+      "date": "2024-10-02T18:52:14.818Z",
+      "readIops": 57573.2055,
+      "writeIops": 749.9231,
+      "readThroughput": 847157076.1086,
+      "writeThroughput": 944061380.6528
+    },
+    {
+      "date": "2024-10-03T18:52:14.818Z",
+      "readIops": 88597.3498,
+      "writeIops": 515.7724,
+      "readThroughput": 851611910.0575,
+      "writeThroughput": 696072437.1921
+    },
+    {
+      "date": "2024-10-04T18:52:14.818Z",
+      "readIops": 88190.5201,
+      "writeIops": 659.0898,
+      "readThroughput": 378905764.6133,
+      "writeThroughput": 535545183.2602
+    },
+    {
+      "date": "2024-10-05T18:52:14.818Z",
+      "readIops": 24876.5618,
+      "writeIops": 240.3952,
+      "readThroughput": 666732750.4191,
+      "writeThroughput": 897689824.2943
+    },
+    {
+      "date": "2024-10-06T18:52:14.818Z",
+      "readIops": 48571.7229,
+      "writeIops": 964.4656,
+      "readThroughput": 888693207.1529,
+      "writeThroughput": 563428535.3562
+    },
+    {
+      "date": "2024-10-07T18:52:14.818Z",
+      "readIops": 96553.072,
+      "writeIops": 229.6926,
+      "readThroughput": 774079699.6879,
+      "writeThroughput": 766164283.432
+    },
+    {
+      "date": "2024-10-08T18:52:14.818Z",
+      "readIops": 64582.2731,
+      "writeIops": 767.9462,
+      "readThroughput": 450437753.7775,
+      "writeThroughput": 656293172.1638
+    },
+    {
+      "date": "2024-10-09T18:52:14.818Z",
+      "readIops": 93366.9089,
+      "writeIops": 722.8757,
+      "readThroughput": 639011841.3573,
+      "writeThroughput": 554637894.218
+    },
+    {
+      "date": "2024-10-10T18:52:14.818Z",
+      "readIops": 57637.487,
+      "writeIops": 537.6766,
+      "readThroughput": 548009138.5636,
+      "writeThroughput": 33635931.3881
+    },
+    {
+      "date": "2024-10-11T18:52:14.818Z",
+      "readIops": 65655.0869,
+      "writeIops": 591.7078,
+      "readThroughput": 249600681.2297,
+      "writeThroughput": 630542266.2755
+    },
+    {
+      "date": "2024-10-12T18:52:14.818Z",
+      "readIops": 85446.5858,
+      "writeIops": 403.668,
+      "readThroughput": 185579301.575,
+      "writeThroughput": 145872161.3227
+    },
+    {
+      "date": "2024-10-13T18:52:14.818Z",
+      "readIops": 29559.0782,
+      "writeIops": 512.283,
+      "readThroughput": 536897633.9248,
+      "writeThroughput": 47500113.7914
+    },
+    {
+      "date": "2024-10-14T18:52:14.818Z",
+      "readIops": 79779.559,
+      "writeIops": 246.4135,
+      "readThroughput": 857931744.2795,
+      "writeThroughput": 784425923.729
+    },
+    {
+      "date": "2024-10-15T18:52:14.818Z",
+      "readIops": 56759.3354,
+      "writeIops": 340.0874,
+      "readThroughput": 601459050.0539,
+      "writeThroughput": 779567698.745
+    },
+    {
+      "date": "2024-10-16T18:52:14.818Z",
+      "readIops": 73599.8161,
+      "writeIops": 595.9018,
+      "readThroughput": 422594971.9554,
+      "writeThroughput": 54198206.9361
+    },
+    {
+      "date": "2024-10-17T18:52:14.818Z",
+      "readIops": 65012.1386,
+      "writeIops": 795.6998,
+      "readThroughput": 276486148.8045,
+      "writeThroughput": 1071580224.7867
+    }
+  ]
+}
