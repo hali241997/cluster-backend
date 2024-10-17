@@ -29,7 +29,7 @@ export default class PoliciesController {
     }
 
     // Incase there is no policy
-    return []
+    return {}
   }
 
   async update({ request, response }: HttpContext) {
