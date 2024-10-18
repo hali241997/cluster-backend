@@ -9,7 +9,9 @@ This is a [AdnoisJS](https://adonisjs.com/) project bootstrapped with `npm init 
 4. Run the migrations using the command: `node ace migration:run`.
 5. Run the development server using this command: `node ace serve --hmr`.
 4. Your server will run on [http://localhost:3333](http://localhost:3333).
-5. You can run the tests by executing the following command: `node ace test`.
+
+## Test
+You can run the tests by executing the following command: `node ace test`.
 
 ## Working
 This project contains a `generateDummyData.js` that generate a json file in `data/dummy-data.json` which will have dummy data for the cluster. There's no harm in executing this file but you do not need to. I already have provided the `data/dummy-data.json` in the project.
