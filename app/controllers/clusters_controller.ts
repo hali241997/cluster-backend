@@ -34,8 +34,8 @@ export default class ClustersController {
       })
     } catch (error) {
       // Handle validation or internal errors
-      if (error.messages) {
-        return response.status(400).json({ error: error.messages })
+      if (error.message) {
+        return response.status(400).json({ error: error.message })
       }
 
       return response.status(500).json({ error: 'Internal Server Error' })

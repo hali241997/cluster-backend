@@ -3,7 +3,7 @@ import { createPolicyValidator } from '#validators/policy'
 import type { HttpContext } from '@adonisjs/core/http'
 
 export default class PoliciesController {
-  async index() {
+  async index({ response }: HttpContext) {
     // removing createdAt and updatedAt
     const policy = await Policy.query()
       .select([
@@ -25,11 +25,11 @@ export default class PoliciesController {
       const parsedPolicy = { ...policy.$attributes, runningDays: JSON.parse(policy.runningDays) }
 
       // returning parsed policy
-      return parsedPolicy
+      return response.json(parsedPolicy)
     }
 
     // Incase there is no policy
-    return {}
+    return response.json({})
   }
 
   async update({ request, response }: HttpContext) {
