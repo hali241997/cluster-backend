@@ -16,7 +16,7 @@ You can run the tests by executing the following command: `node ace test`.
 ## Working
 This project contains a `generateDummyData.js` that generate a json file in `data/dummy-data.json` which will have dummy data for the cluster. There's no harm in executing this file but you do not need to. I already have provided the `data/dummy-data.json` in the project.
 
-I assumed there will always be one policy from the information provided in the email. Hence I made the controllers accordingly.
+<span style="color: red;">I assumed there will always be one policy from the information provided in the email. Hence I made the controllers accordingly.</span>
 
 The project has 3 routes:
 - GET `/api/getTimeSeries`: This will get the data for the cluster from the `data/dummy-data.json`.
