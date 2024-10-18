@@ -11,7 +11,7 @@ This is a [AdnoisJS](https://adonisjs.com/) project bootstrapped with `npm init 
 4. Your server will run on [http://localhost:3333](http://localhost:3333).
 5. You can run the tests by executing the following command: `node ace test`.
 
-## Notes
+## Working
 This project contains a `generateDummyData.js` that generate a json file in `data/dummy-data.json` which will have dummy data for the cluster. There's no harm in executing this file but you do not need to. I already have provided the `data/dummy-data.json` in the project.
 
 I assumed there will always be one policy from the information provided in the email. Hence I made the controllers accordingly.
